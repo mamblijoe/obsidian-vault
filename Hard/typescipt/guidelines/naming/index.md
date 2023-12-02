@@ -1,0 +1,102 @@
+
+
+# Венгерская нотация и интерфейсы
+
+## Reason #1 The times of the Hungarian notation have passed
+
+Main argument from `I`-prefix-for-interface supporters is that prefixing is helpful for immediately grokking (peeking)
+whether type is an interface. Statement that prefix is helpful for immediately grokking (peeking) is an appeal to
+Hungarian notation. `I` prefix for interface name, `C` for class, `A` for abstract class, `s` for string variable, `c`
+for const variable, `i` for integer variable.
+
+I agree that such name decoration can provide you type information without hovering
+mouse over identifier or navigating to type definition via a hot-key. This tiny benefit is outweighed by Hungarian
+notation disadvantages and other reasons mentioned below. Hungarian notation is not used in contemporary frameworks. C#
+has `I` prefix (and this the only prefix in C#) for interfaces due to historical reasons (COM). In retrospect one of
+.NET
+architects (Brad Abrams) thinks it would have been better not using `I` prefix. TypeScript is COM-legacy-free thereby it
+has no `I`-prefix-for-interface rule.
+
+## Reason #2 `I`-prefix violates encapsulation principle
+
+Let's assume you get some black-box. You get some type reference that allows you to interact with that box. You should
+not care if it is an interface or a class. You just use its interface part. Demanding to know what is it (interface,
+specific implementation or abstract class) is a violation of encapsulation.
+
+Example: let's assume you need to fix API Design Myth: Interface as Contract in your code e.g. delete `ICar` interface
+and
+use `Car` base-class instead. Then you need to perform such replacement in all consumers. `I`-prefix leads to implicit
+dependency of consumers on black-box implementation details.
+
+## Reason #3 Protection from bad naming
+
+Developers are lazy to think properly about names. Naming is one of the Two Hard Things in Computer Science. When a
+developer needs to extract an interface it is easy to just add the letter `I` to the class name and you get an interface
+name. Disallowing `I` prefix for interfaces forces developers to strain their brains to choose appropriate names for
+interfaces. Chosen names should be different not only in prefix but emphasize intent difference.
+
+Abstraction case: you **should not** define an `ICar` interface and an associated `Car` class. `Car` is an abstraction,
+and it
+should be the one used for the contract. Implementations should have descriptive, distinctive names e.g. `SportsCar`,
+`SuvCar`, `HollowCar`.
+
+:::tip
+
+Good example: `WpfeServerAutosuggestManager` implements `AutosuggestManager`, `FileBasedAutosuggestManager`
+implements `AutosuggestManager`.
+
+:::
+
+:::danger
+
+Bad example: `AutosuggestManager` implements `IAutosuggestManager`.
+
+:::
+
+## Reason #4 Properly chosen names vaccinate you against API Design Myth: Interface as Contract.
+
+In my practice, I met a lot of people that thoughtlessly duplicated interface part of a class in a separate interface
+having `Car` implements `ICar` naming scheme. Duplicating interface part of a class in separate interface type does not
+magically convert it into abstraction. You will still get concrete implementation but with duplicated interface part. If
+your abstraction is not so good, duplicating interface part will not improve it anyhow. Extracting abstraction is hard
+work.
+
+:::note
+
+In TS you don't need separate interface for mocking classes or overloading functionality. Instead of creating a
+separate interface that describes public members of a class you can use TypeScript utility types. E.g. `Required<T>`
+constructs a type consisting of all public members of type `T`.
+
+:::
+
+```typescript
+export class SecurityPrincipalStub implements Required<SecurityPrincipal> {
+    public isFeatureEnabled(entitlement: Entitlement): boolean {
+        return true;
+    }
+
+    public isWidgetEnabled(kind: string): boolean {
+        return true;
+    }
+
+    public areAdminToolsEnabled(): boolean {
+        return true;
+    }
+}
+```
+
+If you want to construct a type excluding some public members then you can use combination of Omit and Exclude.
+
+[Reference](https://stackoverflow.com/questions/31876947/confused-about-the-interface-and-class-coding-guidelines-for-typescript)
+
+
+
+
+
+
+
+
+
+
+
+
