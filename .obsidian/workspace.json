@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocker/modules/mockaroo/mockaroo.md",
+                "file": "mocker/modules/faker/faker.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocker/modules/mockaroo/mockaroo.md",
+                "file": "mocker/modules/faker/faker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocker/modules/mockaroo/mockaroo.md",
+                "file": "mocker/modules/faker/faker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocker/modules/mockaroo/mockaroo.md"
+                "file": "mocker/modules/faker/faker.md"
               }
             }
           }
@@ -158,8 +158,10 @@
   },
   "active": "122e07c493859939",
   "lastOpenFiles": [
-    "mocker/modules/cobbl.io/cobbl.io.md",
     "mocker/modules/mockaroo/mockaroo.md",
+    "mocker/modules/faker/faker.md",
+    "mocker/modules/faker",
+    "mocker/modules/cobbl.io/cobbl.io.md",
     "mocker/modules/mockaroo",
     "mocker/Идеи.md",
     "mocker/modules/cobbl.io",
@@ -193,14 +195,12 @@
     "Hard/OOP/Patterns/Behavioral/Strategy/Strategy.md",
     "Hard/OOP/Patterns/Behavioral/State/State.md",
     "Hard/OOP/Patterns/Behavioral/Observer/Observer.md",
-    "Hard/OOP/Patterns/Behavioral/Memento/Memento.md",
     "Hard/OOP/Patterns/Structural/Bridge/img.png",
     "Hard/OOP/Patterns/Creational/Singleton/img.png",
     "Hard/OOP/Patterns/Creational/Prototype/img.png",
     "Hard/OOP/Patterns/Creational/Factory-method/img.png",
     "Hard/OOP/Patterns/Creational/Builder/img.png",
     "Soft/index.md~",
-    "Hard/index.md~",
     "Hard/OOP/Patterns/Creational/Abstract-factory/img.png",
     "Hard/OOP/img.png",
     "Харды/css/img.png"
