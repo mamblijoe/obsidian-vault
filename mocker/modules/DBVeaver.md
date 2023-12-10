@@ -1,0 +1,44 @@
+- Boolean
+    - Random
+    - Sequence (initial, order)
+- Date
+    - Random (start, end)
+    - Sequence (start, step, reverse)
+- Numeric
+    - Random
+    - Sequence (start, step, reverse)
+    - Advanced (min, max, precision, scale) *
+        - Price preset *
+        - Coordinate preset *
+- String
+    - Text (template, min length, max length)
+    - UUID
+    - Address *
+    - City *
+    - Country *
+    - Domain *
+    - Email (gender, with surname, numeric suffix) *
+    - Name (gender, with surname) *
+    - Price (country, min, max) *
+    - Regex based random (regex template) *
+        - Credit Card preset *
+        - Email preset *
+        - Gender preset *
+        - HEX Color preset *
+        - IP4 address preset *
+        - IP6 address preset *
+        - Phone Number preset *
+        - Postal Code preset *
+        - Price preset *
+    - Template with parametrized directives for other generators *:
+        - address() - US postal address
+        - city() - one of the world's largest cities
+        - country() - country
+        - domain() - one of the top Internet domains
+        - email(gender,surname) - e-mail address (gender is ALL|FEMALE|MALE, surname is true|false)
+        - name(gender,surname) - personal name (gender is ALL|FEMALE|MALE, surname is true|false)
+        - random(minimum,maximum) - random integer
+        - regex(pattern) - regex based value for the pattern
+        - sequence(start,step) - sequence of integers
+- NULL values
+- FK - data from the referenced table according to the constraint
