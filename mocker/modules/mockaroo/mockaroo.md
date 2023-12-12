@@ -79,7 +79,7 @@ Construction Scaffolding and Platforms
 * Gender (Facebook) - The Facebook gender list as of 2021  
 * Geometric Distribution - Generates numbers based on a geometric distribution with a specific probability of success.  
 * Given Name (Chinese) - 崇杉, 永鑫, 鑫蕾  
-* GUID - 36 character hex guid - ddee19bc-84fd-4627-897c-dec7c8010977  
+* GUID - 36 character hex guid - ddee19bc-84fd-4627-897c-dec7c8010977 
 * Hex Color - #142a0b, #F0F0F0, #0066FF  
 * IBAN - FR73 5960 2948 07N1 L9TC PVYX E17, SE85 4302 3680 7231 4238 1624, HU12 2842 8140 5998 8717 3520 7242  
 * ICD10 Diagnosis Code - ICD10 diagnosis code. Source: cms.gov  

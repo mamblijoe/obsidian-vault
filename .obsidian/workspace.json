@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5ac93fdd3ad940e7",
+        "id": "7308b24ef59b8653",
         "type": "tabs",
         "children": [
           {
-            "id": "82473480ac03b8cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "122e07c493859939",
+            "id": "a091fad484ef85a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocker/modules/faker/faker.md",
+                "file": "mocker/Модули.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "194965047808de27",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocker/modules/faker/faker.md",
+                "file": "mocker/Модули.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocker/modules/faker/faker.md",
+                "file": "mocker/Модули.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocker/modules/faker/faker.md"
+                "file": "mocker/Модули.md"
               }
             }
           }
@@ -156,19 +147,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "122e07c493859939",
+  "active": "a091fad484ef85a5",
   "lastOpenFiles": [
     "mocker/modules/mockaroo/mockaroo.md",
-    "mocker/modules/faker/faker.md",
-    "mocker/modules/faker",
+    "mocker/Модули.md",
+    "mocker/modules/mdgen/mdgen.md",
     "mocker/modules/cobbl.io/cobbl.io.md",
-    "mocker/modules/mockaroo",
     "mocker/Идеи.md",
+    "mocker/modules/faker/faker.md",
+    "mocker/Ссылки.md",
+    "Books/Совершенный Код/Совершенный код.md",
+    "mocker/modules/faker",
+    "mocker/modules/mockaroo",
     "mocker/modules/cobbl.io",
     "mocker/modules/Без названия.md",
-    "mocker/Ссылки.md",
     "mocker/modules/DBVeaver.md",
-    "mocker/modules/mdgen/mdgen.md",
     "mocker/modules/mdgen",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
@@ -182,7 +175,6 @@
     "Hard/NextJS",
     "Books/Совершенный Код/1-basics-of-development/2. Метаформы, позволяющие лучше понять разработку ПО.md",
     "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
-    "Books/Совершенный Код/Совершенный код.md",
     "Hard/OOP/Patterns/Creational/Abstract-factory/Abstract Factory.md",
     "Hard/OOP/Patterns/Structural/Decorator/Decorator.md",
     "Hard/web/index.md",
@@ -194,7 +186,6 @@
     "Hard/OOP/Patterns/Behavioral/Template-Method/Template Method.md",
     "Hard/OOP/Patterns/Behavioral/Strategy/Strategy.md",
     "Hard/OOP/Patterns/Behavioral/State/State.md",
-    "Hard/OOP/Patterns/Behavioral/Observer/Observer.md",
     "Hard/OOP/Patterns/Structural/Bridge/img.png",
     "Hard/OOP/Patterns/Creational/Singleton/img.png",
     "Hard/OOP/Patterns/Creational/Prototype/img.png",
