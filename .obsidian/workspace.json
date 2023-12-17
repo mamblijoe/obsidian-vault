@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7308b24ef59b8653",
+        "id": "57d9714c31ad71d7",
         "type": "tabs",
         "children": [
           {
-            "id": "a091fad484ef85a5",
+            "id": "62fdaaa51da2aa13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocker/Ссылки.md",
+                "file": "Hard/OOP/Patterns/Creational/Abstract-factory/Абстрактная фабрика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0a681ba2d475704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/OOP/Концепции.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocker/Ссылки.md",
+                "file": "Hard/OOP/Концепции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocker/Ссылки.md",
+                "file": "Hard/OOP/Концепции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocker/Ссылки.md"
+                "file": "Hard/OOP/Концепции.md"
               }
             }
           }
@@ -147,53 +160,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a091fad484ef85a5",
+  "active": "a0a681ba2d475704",
   "lastOpenFiles": [
-    "mocker/Модули.md",
-    "mocker/modules/mockaroo/mockaroo.md",
-    "mocker/modules/mdgen/mdgen.md",
-    "mocker/modules/cobbl.io/cobbl.io.md",
-    "mocker/Идеи.md",
-    "mocker/modules/faker/faker.md",
-    "mocker/Ссылки.md",
-    "Books/Совершенный Код/Совершенный код.md",
+    "Hard/OOP/Patterns/Structural/Adapter/Адаптер.md",
+    "Hard/OOP/Patterns/Creational/Порождающие паттерны.md",
+    "Hard/OOP/Patterns/Creational/Builder/Строитель.md",
+    "Hard/OOP/Patterns/Creational/Singleton/Синглтон.md",
+    "Hard/OOP/Patterns/Creational/Prototype/Прототип.md",
+    "Hard/OOP/Patterns/Structural/Composite/Композит.md",
+    "Hard/OOP/Patterns/Creational/Factory-method/Фабричный метод.md",
+    "Hard/OOP/Patterns/Creational/Abstract-factory/Абстрактная фабрика.md",
+    "Hard/OOP/Patterns/Behavioral/Поведенческие паттерны.md",
+    "Hard/OOP/Patterns/Behavioral/Visitor/Посетитель.md",
+    "Hard/OOP/Patterns/Behavioral/Template-Method/Шаблонный метод.md",
+    "Hard/OOP/Patterns/Behavioral/Strategy/Стратегия.md",
+    "Hard/OOP/Patterns/Behavioral/State/Состояние.md",
+    "Hard/OOP/Patterns/Behavioral/Observer/Обсёрвер.md",
+    "Hard/OOP/Patterns/Behavioral/Memento/Мементо.md",
+    "Hard/OOP/Patterns/Behavioral/Mediator/Медиатор.md",
+    "Hard/OOP/Patterns/Behavioral/Iterator/Итератор.md",
+    "Hard/OOP/Patterns/Behavioral/Command/Команда.md",
+    "Hard/OOP/Patterns/Behavioral/Chain-Of-Responsibility/Цепочка обязанностей.md",
+    "Hard/OOP/Patterns/Structural/Структурные паттерны.md",
+    "Hard/OOP/Patterns/Structural/Proxy/Прокси.md",
+    "Hard/OOP/Patterns/Structural/Proxy/img.png",
+    "Hard/OOP/Patterns/Structural/Flyweight/Легковес.md",
+    "Hard/OOP/Patterns/Structural/Facade/Фасад.md",
+    "Hard/OOP/Patterns/Structural/Decorator/Декоратор.md",
+    "Hard/OOP/Patterns/Structural/Bridge/Мост.md",
+    "Hard/OOP/Patterns/Creational/Singleton/img.png",
+    "Hard/OOP/Patterns/Creational/Prototype/img.png",
+    "Soft/index.md",
     "mocker/modules/faker",
     "mocker/modules/mockaroo",
     "mocker/modules/cobbl.io",
-    "mocker/modules/Без названия.md",
-    "mocker/modules/DBVeaver.md",
     "mocker/modules/mdgen",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules",
     "Ссылки",
     "mocker",
-    "Hard/NextJS/routing/Routing.md",
-    "Hard/NextJS/NextJS.md",
     "Hard/NextJS/routing",
-    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
     "Hard/NextJS",
-    "Books/Совершенный Код/1-basics-of-development/2. Метаформы, позволяющие лучше понять разработку ПО.md",
-    "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
-    "Hard/OOP/Patterns/Creational/Abstract-factory/Abstract Factory.md",
-    "Hard/OOP/Patterns/Structural/Decorator/Decorator.md",
-    "Hard/web/index.md",
-    "Hard/OOP/Концепции.md",
-    "Hard/OOP/Patterns/Behavioral/Visitor/Visitor.md",
-    "Hard/OOP/Patterns/Creational/Factory-method/Factory Method.md",
-    "Ab.md",
-    "Factor.md",
-    "Hard/OOP/Patterns/Behavioral/Template-Method/Template Method.md",
-    "Hard/OOP/Patterns/Behavioral/Strategy/Strategy.md",
-    "Hard/OOP/Patterns/Behavioral/State/State.md",
     "Hard/OOP/Patterns/Structural/Bridge/img.png",
-    "Hard/OOP/Patterns/Creational/Singleton/img.png",
-    "Hard/OOP/Patterns/Creational/Prototype/img.png",
     "Hard/OOP/Patterns/Creational/Factory-method/img.png",
     "Hard/OOP/Patterns/Creational/Builder/img.png",
     "Soft/index.md~",
     "Hard/OOP/Patterns/Creational/Abstract-factory/img.png",
-    "Hard/OOP/img.png",
-    "Харды/css/img.png"
+    "Hard/OOP/img.png"
   ]
 }
