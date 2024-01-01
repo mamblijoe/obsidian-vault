@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocker/Ссылки.md",
+                "file": "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocker/Ссылки.md",
+                "file": "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocker/Ссылки.md",
+                "file": "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocker/Ссылки.md"
+                "file": "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md"
               }
             }
           }
@@ -149,13 +149,16 @@
   },
   "active": "a091fad484ef85a5",
   "lastOpenFiles": [
+    "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
+    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
+    "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
+    "mocker/Ссылки.md",
     "mocker/Модули.md",
+    "mocker/Идеи.md",
     "mocker/modules/mockaroo/mockaroo.md",
     "mocker/modules/mdgen/mdgen.md",
     "mocker/modules/cobbl.io/cobbl.io.md",
-    "mocker/Идеи.md",
     "mocker/modules/faker/faker.md",
-    "mocker/Ссылки.md",
     "Books/Совершенный Код/Совершенный код.md",
     "mocker/modules/faker",
     "mocker/modules/mockaroo",
@@ -171,10 +174,7 @@
     "Hard/NextJS/routing/Routing.md",
     "Hard/NextJS/NextJS.md",
     "Hard/NextJS/routing",
-    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
     "Hard/NextJS",
-    "Books/Совершенный Код/1-basics-of-development/2. Метаформы, позволяющие лучше понять разработку ПО.md",
-    "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
     "Hard/OOP/Patterns/Creational/Abstract-factory/Abstract Factory.md",
     "Hard/OOP/Patterns/Structural/Decorator/Decorator.md",
     "Hard/web/index.md",
