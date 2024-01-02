@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be013ee88bf28050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 357.5
   },
   "right": {
     "id": "194965047808de27",
@@ -147,7 +160,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a091fad484ef85a5",
+  "active": "be013ee88bf28050",
   "lastOpenFiles": [
     "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
     "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
