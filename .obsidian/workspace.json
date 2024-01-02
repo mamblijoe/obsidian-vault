@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
+                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
+                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
+                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md"
+                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "be013ee88bf28050",
   "lastOpenFiles": [
+    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
     "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
     "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
-    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
     "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
     "Hard/OOP/Patterns/Structural/Proxy/Прокси.md",
     "Hard/OOP/Patterns/Structural/Flyweight/Легковес.md",
