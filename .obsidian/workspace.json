@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
+                "file": "mocker/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
+                "file": "mocker/Requirements.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
+                "file": "mocker/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md"
+                "file": "mocker/Requirements.md"
               }
             }
           }
@@ -147,10 +147,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "be013ee88bf28050",
+  "active": "590a401e5da0ef97",
   "lastOpenFiles": [
-    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
+    "mocker/Ссылки.md",
+    "mocker/Идеи.md",
+    "mocker/Requirements.md",
+    "mocker/Модули.md",
+    "mocker/modules/DBVeaver.md",
+    "mocker/modules/mockaroo/mockaroo.md",
+    "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
+    "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
+    "mocker/modules/cobbl.io/cobbl.io.md",
     "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
+    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
     "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
     "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
     "Hard/OOP/Patterns/Structural/Proxy/Прокси.md",
@@ -168,19 +177,10 @@
     "Hard/OOP/Patterns/Behavioral/Visitor/Посетитель.md",
     "Hard/OOP/Patterns/Behavioral/Template-Method/Шаблонный метод.md",
     "Hard/OOP/Patterns/Behavioral/Strategy/Стратегия.md",
-    "Hard/OOP/Patterns/Behavioral/State/Состояние.md",
-    "Hard/OOP/Patterns/Behavioral/Observer/Обсёрвер.md",
-    "Hard/OOP/Patterns/Behavioral/Memento/Мементо.md",
-    "Hard/OOP/Patterns/Behavioral/Mediator/Медиатор.md",
-    "Hard/OOP/Patterns/Behavioral/Iterator/Итератор.md",
-    "Hard/OOP/Patterns/Behavioral/Command/Команда.md",
-    "Hard/OOP/Patterns/Behavioral/Chain-Of-Responsibility/Цепочка обязанностей.md",
     "mocker/modules/faker",
     "mocker/modules/mockaroo",
     "mocker/modules/cobbl.io",
     "mocker/modules/mdgen",
-    "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
-    "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules",
     "Ссылки",
     "mocker",
