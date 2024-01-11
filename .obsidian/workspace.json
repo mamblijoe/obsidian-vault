@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocker/Requirements.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocker/Requirements.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocker/Requirements.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocker/Requirements.md"
+                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md"
               }
             }
           }
@@ -147,20 +147,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "590a401e5da0ef97",
+  "active": "be013ee88bf28050",
   "lastOpenFiles": [
-    "mocker/Ссылки.md",
-    "mocker/Идеи.md",
-    "mocker/Requirements.md",
+    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
+    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
+    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
+    "Hard/NextJS/NextJS.md",
+    "Hard/NextJS/routing/Routing.md",
+    "Hard/HTML/HTML.md",
+    "Hard/CSS/Practices.md",
     "mocker/Модули.md",
+    "mocker/Ссылки.md",
+    "mocker/Requirements.md",
+    "mocker/Идеи.md",
     "mocker/modules/DBVeaver.md",
     "mocker/modules/mockaroo/mockaroo.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/cobbl.io/cobbl.io.md",
     "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
-    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
-    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
     "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
     "Hard/OOP/Patterns/Structural/Proxy/Прокси.md",
     "Hard/OOP/Patterns/Structural/Flyweight/Легковес.md",
@@ -172,11 +177,6 @@
     "Hard/OOP/Patterns/Creational/Singleton/Синглтон.md",
     "Hard/OOP/Patterns/Creational/Prototype/Прототип.md",
     "Hard/OOP/Patterns/Creational/Factory-method/Фабричный метод.md",
-    "Hard/OOP/Patterns/Creational/Builder/Строитель.md",
-    "Hard/OOP/Patterns/Creational/Abstract-factory/Абстрактная фабрика.md",
-    "Hard/OOP/Patterns/Behavioral/Visitor/Посетитель.md",
-    "Hard/OOP/Patterns/Behavioral/Template-Method/Шаблонный метод.md",
-    "Hard/OOP/Patterns/Behavioral/Strategy/Стратегия.md",
     "mocker/modules/faker",
     "mocker/modules/mockaroo",
     "mocker/modules/cobbl.io",
