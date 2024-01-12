@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
+                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
+                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
+                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md"
+                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md"
               }
             }
           }
@@ -149,34 +149,34 @@
   },
   "active": "be013ee88bf28050",
   "lastOpenFiles": [
+    "Soft/index.md",
+    "Hard/React/Frameworks/Фреймворки и билдеры.md",
+    "Hard/Refactoring/Smells/Запахи.md",
+    "Hard/Refactoring/Рефакторинг.md",
+    "Hard/TDD/Rules/Rules.md",
+    "Hard/TDD/TDD.md",
+    "Hard/typescipt/guidelines/naming/Венгерская нотация и интерфейсы.md",
+    "Hard/typescipt/index.md",
+    "Hard/typescipt/guidelines/index.md",
+    "Hard/web/Rendering-Patterns/Паттерны рендеринга.md",
+    "Hard/web-security/csp/Content Secure Policy.md",
+    "Hard/web/index.md",
+    "Hard/web-security/owasp/OWASP.md",
+    "Hard/UI-глоссарий.md",
+    "Hard/web-security/index.md",
+    "Hard/index.md",
+    "Books/Совершенный Код/2-high-quality-code/6. Классы.md",
+    "Hard/OOP/Закон Деметры.md",
+    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
     "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
     "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
-    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
     "Hard/NextJS/NextJS.md",
     "Hard/NextJS/routing/Routing.md",
     "Hard/HTML/HTML.md",
     "Hard/CSS/Practices.md",
     "mocker/Модули.md",
-    "mocker/Ссылки.md",
-    "mocker/Requirements.md",
-    "mocker/Идеи.md",
-    "mocker/modules/DBVeaver.md",
-    "mocker/modules/mockaroo/mockaroo.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
-    "mocker/modules/cobbl.io/cobbl.io.md",
-    "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
-    "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
-    "Hard/OOP/Patterns/Structural/Proxy/Прокси.md",
-    "Hard/OOP/Patterns/Structural/Flyweight/Легковес.md",
-    "Hard/OOP/Patterns/Structural/Facade/Фасад.md",
-    "Hard/OOP/Patterns/Structural/Decorator/Декоратор.md",
-    "Hard/OOP/Patterns/Structural/Composite/Композит.md",
-    "Hard/OOP/Patterns/Structural/Bridge/Мост.md",
-    "Hard/OOP/Patterns/Structural/Adapter/Адаптер.md",
-    "Hard/OOP/Patterns/Creational/Singleton/Синглтон.md",
-    "Hard/OOP/Patterns/Creational/Prototype/Прототип.md",
-    "Hard/OOP/Patterns/Creational/Factory-method/Фабричный метод.md",
     "mocker/modules/faker",
     "mocker/modules/mockaroo",
     "mocker/modules/cobbl.io",
