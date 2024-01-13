@@ -149,6 +149,8 @@
   },
   "active": "be013ee88bf28050",
   "lastOpenFiles": [
+    "Hard/OOP/Связность (coupling).md",
+    "Books/Совершенный Код/2-high-quality-code/7. Высококачественные методы.md",
     "Soft/index.md",
     "Hard/React/Frameworks/Фреймворки и билдеры.md",
     "Hard/Refactoring/Smells/Запахи.md",
@@ -173,8 +175,6 @@
     "Hard/NextJS/NextJS.md",
     "Hard/NextJS/routing/Routing.md",
     "Hard/HTML/HTML.md",
-    "Hard/CSS/Practices.md",
-    "mocker/Модули.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
