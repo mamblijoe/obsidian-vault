@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/Frameworks/Фреймворки и билдеры.md"
+                "file": "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "be013ee88bf28050",
   "lastOpenFiles": [
+    "Hard/React/Frameworks/Фреймворки и билдеры.md",
     "Hard/OOP/Связность (coupling).md",
     "Books/Совершенный Код/2-high-quality-code/7. Высококачественные методы.md",
     "Soft/index.md",
-    "Hard/React/Frameworks/Фреймворки и билдеры.md",
     "Hard/Refactoring/Smells/Запахи.md",
     "Hard/Refactoring/Рефакторинг.md",
     "Hard/TDD/Rules/Rules.md",
