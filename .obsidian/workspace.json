@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
+                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md"
+                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "be013ee88bf28050",
   "lastOpenFiles": [
+    "Books/Совершенный Код/3-variables/11. Сила имен переменных.md",
+    "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
+    "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
+    "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
+    "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
     "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
     "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
     "Hard/React/Frameworks/Фреймворки и билдеры.md",
@@ -173,8 +178,6 @@
     "Hard/OOP/Закон Деметры.md",
     "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
     "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
-    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
-    "Hard/NextJS/NextJS.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
@@ -184,14 +187,11 @@
     "mocker/modules",
     "Ссылки",
     "mocker",
-    "Hard/NextJS/routing",
-    "Hard/NextJS",
     "Hard/OOP/Patterns/Structural/Bridge/img.png",
     "Hard/OOP/Patterns/Creational/Singleton/img.png",
     "Hard/OOP/Patterns/Creational/Prototype/img.png",
     "Hard/OOP/Patterns/Creational/Factory-method/img.png",
     "Hard/OOP/Patterns/Creational/Builder/img.png",
-    "Soft/index.md~",
     "Hard/OOP/Patterns/Creational/Abstract-factory/img.png",
     "Hard/OOP/img.png",
     "Харды/css/img.png"
