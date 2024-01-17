@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7308b24ef59b8653",
+        "id": "851adf7a9cd5ca9a",
         "type": "tabs",
         "children": [
           {
-            "id": "be013ee88bf28050",
+            "id": "2f2936777575220c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,14 +139,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "be013ee88bf28050",
+  "active": "2f2936777575220c",
   "lastOpenFiles": [
     "Books/Совершенный Код/3-variables/11. Сила имен переменных.md",
+    "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
+    "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
-    "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
-    "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
     "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
     "Hard/React/Frameworks/Фреймворки и билдеры.md",
     "Hard/OOP/Связность (coupling).md",
