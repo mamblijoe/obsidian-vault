@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "851adf7a9cd5ca9a",
+        "id": "7af51fa2fd514bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2936777575220c",
+            "id": "6601a4f1d95a7eb8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,15 +139,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2f2936777575220c",
+  "active": "6601a4f1d95a7eb8",
   "lastOpenFiles": [
+    "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
+    "Books/Совершенный Код/3-variables/12. Основные типы данных.md",
     "Books/Совершенный Код/3-variables/11. Сила имен переменных.md",
+    "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
     "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
+    "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
     "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
+    "Books/Совершенный Код/2-high-quality-code/6. Классы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
-    "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
     "Hard/React/Frameworks/Фреймворки и билдеры.md",
     "Hard/OOP/Связность (coupling).md",
     "Books/Совершенный Код/2-high-quality-code/7. Высококачественные методы.md",
@@ -166,10 +170,6 @@
     "Hard/UI-глоссарий.md",
     "Hard/web-security/index.md",
     "Hard/index.md",
-    "Books/Совершенный Код/2-high-quality-code/6. Классы.md",
-    "Hard/OOP/Закон Деметры.md",
-    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
-    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
