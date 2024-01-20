@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/15. Условные операторы.md",
+                "file": "Books/Совершенный Код/4-operators/16. Циклы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/15. Условные операторы.md",
+                "file": "Books/Совершенный Код/4-operators/16. Циклы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/15. Условные операторы.md",
+                "file": "Books/Совершенный Код/4-operators/16. Циклы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/15. Условные операторы.md"
+                "file": "Books/Совершенный Код/4-operators/16. Циклы.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "6601a4f1d95a7eb8",
   "lastOpenFiles": [
+    "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/4-operators/16. Циклы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
-    "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
     "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
     "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
