@@ -11,8 +11,12 @@
             "id": "6601a4f1d95a7eb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md"
+              }
             }
           }
         ],
@@ -141,8 +149,8 @@
   },
   "active": "6601a4f1d95a7eb8",
   "lastOpenFiles": [
-    "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
     "Books/Совершенный Код/3-variables/12. Основные типы данных.md",
+    "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
     "Books/Совершенный Код/3-variables/11. Сила имен переменных.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
     "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
