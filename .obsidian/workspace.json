@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/16. Циклы.md",
+                "file": "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/16. Циклы.md",
+                "file": "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/16. Циклы.md",
+                "file": "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/16. Циклы.md"
+                "file": "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "6601a4f1d95a7eb8",
   "lastOpenFiles": [
-    "Books/Совершенный Код/4-operators/15. Условные операторы.md",
+    "Books/Совершенный Код/4-operators/18. Табличные методы.md",
     "Books/Совершенный Код/4-operators/16. Циклы.md",
+    "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
     "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
     "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
@@ -177,7 +178,6 @@
     "Hard/web-security/csp/Content Secure Policy.md",
     "Hard/web/index.md",
     "Hard/web-security/owasp/OWASP.md",
-    "Hard/UI-глоссарий.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
