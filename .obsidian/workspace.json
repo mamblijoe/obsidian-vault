@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/18. Табличные методы.md",
+                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/18. Табличные методы.md",
+                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/18. Табличные методы.md",
+                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/18. Табличные методы.md"
+                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "6601a4f1d95a7eb8",
   "lastOpenFiles": [
-    "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
     "Books/Совершенный Код/4-operators/18. Табличные методы.md",
+    "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
     "Books/Совершенный Код/4-operators/16. Циклы.md",
     "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
