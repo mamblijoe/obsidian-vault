@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
+                "file": "Books/Совершенный Код/5-code-improvment/20. Качество ПО.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
+                "file": "Books/Совершенный Код/5-code-improvment/20. Качество ПО.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
+                "file": "Books/Совершенный Код/5-code-improvment/20. Качество ПО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md"
+                "file": "Books/Совершенный Код/5-code-improvment/20. Качество ПО.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "6601a4f1d95a7eb8",
   "lastOpenFiles": [
+    "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
     "Books/Совершенный Код/4-operators/18. Табличные методы.md",
     "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
     "Books/Совершенный Код/4-operators/16. Циклы.md",
@@ -177,7 +178,6 @@
     "Hard/typescipt/guidelines/index.md",
     "Hard/web/Rendering-Patterns/Паттерны рендеринга.md",
     "Hard/web-security/csp/Content Secure Policy.md",
-    "Hard/web/index.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
