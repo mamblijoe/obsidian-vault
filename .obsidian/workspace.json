@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7af51fa2fd514bcd",
+        "id": "302b5193cd8f19a5",
         "type": "tabs",
         "children": [
           {
-            "id": "6601a4f1d95a7eb8",
+            "id": "aac2d88465da2438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
+                "file": "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
+                "file": "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
+                "file": "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md"
+                "file": "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md"
               }
             }
           }
@@ -147,10 +147,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6601a4f1d95a7eb8",
+  "active": "aac2d88465da2438",
   "lastOpenFiles": [
-    "Books/Совершенный Код/5-code-improvment/20. Качество ПО.md",
+    "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
+    "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
     "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
+    "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
+    "Books/Совершенный Код/21. Совместное конструирование.md",
+    "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
+    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
+    "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
+    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
+    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
+    "Books/Совершенный Код/5-code-improvment/20. Качество ПО.md",
     "Books/Совершенный Код/4-operators/18. Табличные методы.md",
     "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
     "Books/Совершенный Код/4-operators/16. Циклы.md",
@@ -169,15 +178,6 @@
     "Hard/React/Frameworks/Фреймворки и билдеры.md",
     "Hard/OOP/Связность (coupling).md",
     "Books/Совершенный Код/2-high-quality-code/7. Высококачественные методы.md",
-    "Soft/index.md",
-    "Hard/Refactoring/Smells/Запахи.md",
-    "Hard/Refactoring/Рефакторинг.md",
-    "Hard/TDD/Rules/Rules.md",
-    "Hard/TDD/TDD.md",
-    "Hard/typescipt/guidelines/naming/Венгерская нотация и интерфейсы.md",
-    "Hard/typescipt/index.md",
-    "Hard/typescipt/guidelines/index.md",
-    "Hard/web/Rendering-Patterns/Паттерны рендеринга.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
