@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
+                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
+                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
+                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/23. Отладка.md"
+                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "aac2d88465da2438",
   "lastOpenFiles": [
+    "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
     "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
     "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
-    "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
     "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
     "Books/Совершенный Код/21. Совместное конструирование.md",
     "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
