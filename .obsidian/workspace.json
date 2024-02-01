@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
+                "file": "Books/Совершенный Код/5-code-improvment/25. Стратегии оптимизации кода.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
+                "file": "Books/Совершенный Код/5-code-improvment/25. Стратегии оптимизации кода.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
+                "file": "Books/Совершенный Код/5-code-improvment/25. Стратегии оптимизации кода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md"
+                "file": "Books/Совершенный Код/5-code-improvment/25. Стратегии оптимизации кода.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "aac2d88465da2438",
   "lastOpenFiles": [
+    "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
     "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
     "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
     "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
@@ -177,7 +178,6 @@
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
     "Hard/React/Frameworks/Фреймворки и билдеры.md",
     "Hard/OOP/Связность (coupling).md",
-    "Books/Совершенный Код/2-high-quality-code/7. Высококачественные методы.md",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
