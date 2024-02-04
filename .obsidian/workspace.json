@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/26. Методики оптимизации кода.md",
+                "file": "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/26. Методики оптимизации кода.md",
+                "file": "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/26. Методики оптимизации кода.md",
+                "file": "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/5-code-improvment/26. Методики оптимизации кода.md"
+                "file": "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md"
               }
             }
           }
