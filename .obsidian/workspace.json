@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
+                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
+                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
+                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md"
+                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "aac2d88465da2438",
   "lastOpenFiles": [
+    "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md",
+    "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md",
     "Books/Совершенный Код/6-systemic-issue/27. Как размер программы влияет на конструирование.md",
     "Books/Совершенный Код/5-code-improvment/26. Методики оптимизации кода.md",
@@ -173,8 +175,6 @@
     "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
     "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
     "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
-    "Books/Совершенный Код/3-variables/12. Основные типы данных.md",
-    "Books/Совершенный Код/3-variables/11. Сила имен переменных.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
