@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
+                "file": "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
+                "file": "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
+                "file": "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md"
+                "file": "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "aac2d88465da2438",
   "lastOpenFiles": [
+    "Books/Совершенный Код/Совершенный код.md",
+    "Books/Совершенный Код/21. Совместное конструирование.md",
+    "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
+    "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md",
+    "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md",
     "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md",
@@ -158,9 +163,7 @@
     "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
     "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
     "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
-    "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
     "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
-    "Books/Совершенный Код/21. Совместное конструирование.md",
     "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
     "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
     "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
@@ -172,9 +175,6 @@
     "Books/Совершенный Код/4-operators/16. Циклы.md",
     "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
-    "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
-    "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
-    "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
