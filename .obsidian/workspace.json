@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/33. Личность.md",
+                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/33. Личность.md",
+                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/33. Личность.md",
+                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/33. Личность.md"
+                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "aac2d88465da2438",
   "lastOpenFiles": [
+    "Books/Совершенный Код/7-programming-skill/33. Личность.md",
     "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md",
     "Books/Совершенный Код/Совершенный код.md",
     "Books/Совершенный Код/21. Совместное конструирование.md",
@@ -174,7 +175,6 @@
     "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
     "Books/Совершенный Код/4-operators/16. Циклы.md",
     "Books/Совершенный Код/4-operators/15. Условные операторы.md",
-    "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
