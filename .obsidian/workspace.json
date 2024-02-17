@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "302b5193cd8f19a5",
+        "id": "8c09362276a2bcdc",
         "type": "tabs",
         "children": [
           {
-            "id": "aac2d88465da2438",
+            "id": "0d8b45246e3d3d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
+                "file": "Hard/React/Типизация.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "связность",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
+                "file": "Hard/React/Типизация.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
+                "file": "Hard/React/Типизация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md"
+                "file": "Hard/React/Типизация.md"
               }
             }
           }
@@ -147,34 +147,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aac2d88465da2438",
+  "active": "0d8b45246e3d3d9f",
   "lastOpenFiles": [
+    "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
+    "Hard/React/Типизация.md",
+    "Books/Совершенный Код/4-operators/16. Циклы.md",
+    "Books/Совершенный Код/4-operators/15. Условные операторы.md",
+    "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
+    "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
+    "Books/Совершенный Код/3-variables/12. Основные типы данных.md",
+    "Books/Совершенный Код/3-variables/11. Сила имен переменных.md",
+    "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
+    "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
+    "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
+    "Hard/OOP/Связность (coupling).md",
+    "Books/Совершенный Код/2-high-quality-code/7. Высококачественные методы.md",
+    "Books/Совершенный Код/2-high-quality-code/6. Классы.md",
+    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
+    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
+    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
+    "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
+    "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
+    "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
     "Books/Совершенный Код/7-programming-skill/33. Личность.md",
     "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md",
-    "Books/Совершенный Код/Совершенный код.md",
-    "Books/Совершенный Код/21. Совместное конструирование.md",
-    "Books/Совершенный Код/5-code-improvment/21. Совместное конструирование.md",
     "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md",
     "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md",
-    "Books/Совершенный Код/6-systemic-issue/27. Как размер программы влияет на конструирование.md",
-    "Books/Совершенный Код/5-code-improvment/26. Методики оптимизации кода.md",
-    "Books/Совершенный Код/5-code-improvment/25. Стратегии оптимизации кода.md",
-    "Books/Совершенный Код/5-code-improvment/24. Рефакторинг.md",
-    "Books/Совершенный Код/5-code-improvment/23. Отладка.md",
-    "Books/Совершенный Код/5-code-improvment/22. Тестирование, выполняемое разработчиками.md",
-    "Books/Совершенный Код/4-operators/19.Общие вопросы управления.md",
-    "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
-    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
-    "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
-    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
-    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
-    "Books/Совершенный Код/5-code-improvment/20. Качество ПО.md",
-    "Books/Совершенный Код/4-operators/18. Табличные методы.md",
-    "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
-    "Books/Совершенный Код/4-operators/16. Циклы.md",
-    "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
