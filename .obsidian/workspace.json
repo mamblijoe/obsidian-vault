@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/Типизация.md",
+                "file": "Hard/React/Концепции.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/Типизация.md",
+                "file": "Hard/React/Концепции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/Типизация.md",
+                "file": "Hard/React/Концепции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/Типизация.md"
+                "file": "Hard/React/Концепции.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "0d8b45246e3d3d9f",
   "lastOpenFiles": [
-    "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
+    "Hard/React/JSX.md",
+    "Hard/React/Концепции.md",
+    "Hard/Refactoring/Рефакторинг.md",
     "Hard/React/Типизация.md",
+    "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
     "Books/Совершенный Код/4-operators/16. Циклы.md",
     "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
@@ -172,9 +175,6 @@
     "Books/Совершенный Код/7-programming-skill/33. Личность.md",
     "Books/Совершенный Код/7-programming-skill/32. Самодокументирующийся код.md",
     "Books/Совершенный Код/7-programming-skill/31. Форматирование и стиль.md",
-    "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md",
-    "Books/Совершенный Код/6-systemic-issue/29. Интеграция.md",
-    "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
