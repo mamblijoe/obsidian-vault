@@ -149,9 +149,9 @@
   },
   "active": "0d8b45246e3d3d9f",
   "lastOpenFiles": [
-    "Hard/React/concepts/Рендер.md",
-    "Hard/React/concepts/Состояние.md",
     "Hard/React/concepts/Концепции.md",
+    "Hard/React/concepts/Состояние.md",
+    "Hard/React/concepts/Рендер.md",
     "Hard/React/concepts",
     "Hard/React/JSX.md",
     "Hard/Refactoring/Рефакторинг.md",
