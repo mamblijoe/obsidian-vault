@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c09362276a2bcdc",
+        "id": "4fdbfc29750956cc",
         "type": "tabs",
         "children": [
           {
-            "id": "0d8b45246e3d3d9f",
+            "id": "97001f3540aa50ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/concepts/Состояние.md",
+                "file": "Hard/React/concepts/rendering/Рендер.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/concepts/Состояние.md",
+                "file": "Hard/React/concepts/rendering/Рендер.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/concepts/Состояние.md",
+                "file": "Hard/React/concepts/rendering/Рендер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/concepts/Состояние.md"
+                "file": "Hard/React/concepts/rendering/Рендер.md"
               }
             }
           }
@@ -147,13 +147,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0d8b45246e3d3d9f",
+  "active": "97001f3540aa50ee",
   "lastOpenFiles": [
-    "Hard/React/concepts/Концепции.md",
-    "Hard/React/concepts/Состояние.md",
-    "Hard/React/concepts/Рендер.md",
-    "Hard/React/concepts",
+    "Hard/React/concepts/rendering/context-selectors.png",
+    "Hard/React/concepts/rendering/context-parts.png",
+    "Hard/React/concepts/rendering/context-separate.png",
+    "Hard/React/concepts/rendering/context-memoize.png",
+    "Hard/React/concepts/rendering/list-antipattern.png",
+    "Hard/React/concepts/rendering/list.png",
+    "Hard/React/concepts/rendering/react-memo-expensive.png",
+    "Hard/React/concepts/rendering/react-memo-required-2.png",
+    "Hard/React/concepts/rendering/react-memo-required.png",
+    "Hard/React/concepts/rendering/react-memo-antipattern.png",
+    "Hard/React/concepts/rendering/Рендер.md",
+    "Hard/React/concepts/rendering/Pasted image 20240221224118.png",
     "Hard/React/JSX.md",
+    "Hard/React/concepts/Состояние.md",
+    "Hard/React/concepts/rendering",
+    "Hard/React/concepts/Концепции.md",
+    "Hard/React/concepts",
     "Hard/Refactoring/Рефакторинг.md",
     "Hard/React/Типизация.md",
     "Books/Совершенный Код/4-operators/17. Нестадартные управляющие структуры.md",
@@ -175,25 +187,13 @@
     "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
     "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
     "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
-    "Books/Совершенный Код/7-programming-skill/33. Личность.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
-    "mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
-    "mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "mocker/modules/faker",
     "mocker/modules/mockaroo",
     "mocker/modules/cobbl.io",
     "mocker/modules/mdgen",
-    "mocker/modules",
-    "Ссылки",
-    "Hard/OOP/Patterns/Structural/Bridge/img.png",
-    "Hard/OOP/Patterns/Creational/Singleton/img.png",
-    "Hard/OOP/Patterns/Creational/Prototype/img.png",
-    "Hard/OOP/Patterns/Creational/Factory-method/img.png",
-    "Hard/OOP/Patterns/Creational/Builder/img.png",
-    "Hard/OOP/Patterns/Creational/Abstract-factory/img.png",
-    "Hard/OOP/img.png",
-    "Харды/css/img.png"
+    "mocker/modules"
   ]
 }
