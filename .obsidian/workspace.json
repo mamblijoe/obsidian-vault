@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/concepts/rendering/Рендер.md",
+                "file": "Hard/React/concepts/Эффекты.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/concepts/rendering/Рендер.md",
+                "file": "Hard/React/concepts/Эффекты.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/concepts/rendering/Рендер.md",
+                "file": "Hard/React/concepts/Эффекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/concepts/rendering/Рендер.md"
+                "file": "Hard/React/concepts/Эффекты.md"
               }
             }
           }
@@ -147,8 +147,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "97001f3540aa50ee",
+  "active": "590a401e5da0ef97",
   "lastOpenFiles": [
+    "Hard/React/docs",
+    "Hard/React/concepts/Реактивность.md",
+    "HomeWorks/React.md",
+    "Hard/React/concepts/Эффекты.md",
+    "HomeWorks",
+    "Hard/React/concepts/rendering/Рендер.md",
+    "Hard/React/concepts/Рефы.md",
     "Hard/React/concepts/rendering/context-selectors.png",
     "Hard/React/concepts/rendering/context-parts.png",
     "Hard/React/concepts/rendering/context-separate.png",
@@ -159,8 +166,6 @@
     "Hard/React/concepts/rendering/react-memo-required-2.png",
     "Hard/React/concepts/rendering/react-memo-required.png",
     "Hard/React/concepts/rendering/react-memo-antipattern.png",
-    "Hard/React/concepts/rendering/Рендер.md",
-    "Hard/React/concepts/rendering/Pasted image 20240221224118.png",
     "Hard/React/JSX.md",
     "Hard/React/concepts/Состояние.md",
     "Hard/React/concepts/rendering",
@@ -183,17 +188,12 @@
     "Books/Совершенный Код/2-high-quality-code/6. Классы.md",
     "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
     "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
-    "Books/Совершенный Код/1-basics-of-development/3. Семь раз отмерь, один раз отрежь, предварительные условия.md",
-    "Books/Совершенный Код/1-basics-of-development/2. Метафоры, позволяющие лучше понять разработку ПО.md",
-    "Books/Совершенный Код/1-basics-of-development/1. Добро пожаловать в мир конструирования ПО.md",
-    "Books/Совершенный Код/7-programming-skill/34. Основы мастерства.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
     "mocker/modules/faker",
     "mocker/modules/mockaroo",
     "mocker/modules/cobbl.io",
-    "mocker/modules/mdgen",
-    "mocker/modules"
+    "mocker/modules/mdgen"
   ]
 }
