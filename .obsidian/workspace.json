@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/concepts/Эффекты.md",
+                "file": "Hard/React/hooks/useDeferredValue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/concepts/Эффекты.md",
+                "file": "Hard/React/hooks/useDeferredValue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/concepts/Эффекты.md",
+                "file": "Hard/React/hooks/useDeferredValue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/concepts/Эффекты.md"
+                "file": "Hard/React/hooks/useDeferredValue.md"
               }
             }
           }
@@ -147,14 +147,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "590a401e5da0ef97",
+  "active": "97001f3540aa50ee",
   "lastOpenFiles": [
+    "Hard/React/hooks/useCallback.md",
+    "Hard/React/hooks/useContext.md",
+    "Hard/React/hooks/useDebugValue.md",
+    "Hard/React/hooks/useDeferredValue.md",
+    "Hard/React/concepts/rendering/Рендер.md",
+    "Hard/React/hooks",
+    "Hard/React/concepts/Эффекты.md",
+    "Hard/React/Краткие итоги.md",
     "Hard/React/docs",
     "Hard/React/concepts/Реактивность.md",
     "HomeWorks/React.md",
-    "Hard/React/concepts/Эффекты.md",
     "HomeWorks",
-    "Hard/React/concepts/rendering/Рендер.md",
     "Hard/React/concepts/Рефы.md",
     "Hard/React/concepts/rendering/context-selectors.png",
     "Hard/React/concepts/rendering/context-parts.png",
@@ -184,16 +190,10 @@
     "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
     "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
     "Hard/OOP/Связность (coupling).md",
-    "Books/Совершенный Код/2-high-quality-code/7. Высококачественные методы.md",
-    "Books/Совершенный Код/2-high-quality-code/6. Классы.md",
-    "Books/Совершенный Код/2-high-quality-code/5. Проектирование при конструировании.md",
-    "Books/Совершенный Код/1-basics-of-development/4. Основные решения, которые приходится принимать при конструировании.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
     "mocker/modules/faker",
-    "mocker/modules/mockaroo",
-    "mocker/modules/cobbl.io",
-    "mocker/modules/mdgen"
+    "mocker/modules/mockaroo"
   ]
 }
