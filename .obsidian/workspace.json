@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/hooks/useDeferredValue.md",
+                "file": "Hard/React/hooks/useLayoutEffect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee3bfc680288f3e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/React/hooks/useMemo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/hooks/useDeferredValue.md",
+                "file": "Hard/React/hooks/useMemo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/hooks/useDeferredValue.md",
+                "file": "Hard/React/hooks/useMemo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/hooks/useDeferredValue.md"
+                "file": "Hard/React/hooks/useMemo.md"
               }
             }
           }
@@ -147,12 +160,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "97001f3540aa50ee",
+  "active": "ee3bfc680288f3e1",
   "lastOpenFiles": [
     "Hard/React/hooks/useCallback.md",
+    "Hard/React/hooks/useMemo.md",
+    "Hard/React/hooks/useLayoutEffect.md",
+    "Hard/React/hooks/useEffect.md",
+    "Hard/React/hooks/useInsertionEffect.md",
+    "Hard/React/hooks/useImperativeHandle.md",
+    "Hard/React/hooks/useId.md",
+    "Hard/React/hooks/useDeferredValue.md",
     "Hard/React/hooks/useContext.md",
     "Hard/React/hooks/useDebugValue.md",
-    "Hard/React/hooks/useDeferredValue.md",
     "Hard/React/concepts/rendering/Рендер.md",
     "Hard/React/hooks",
     "Hard/React/concepts/Эффекты.md",
@@ -184,12 +203,6 @@
     "Books/Совершенный Код/4-operators/15. Условные операторы.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md",
     "Books/Совершенный Код/3-variables/13. Нестандартные типы данных.md",
-    "Books/Совершенный Код/3-variables/12. Основные типы данных.md",
-    "Books/Совершенный Код/3-variables/11. Сила имен переменных.md",
-    "Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
-    "Books/Совершенный Код/2-high-quality-code/9. Процесс программирования с псевдокодом.md",
-    "Books/Совершенный Код/2-high-quality-code/8. Защитное программирование.md",
-    "Hard/OOP/Связность (coupling).md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
