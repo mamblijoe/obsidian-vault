@@ -8,19 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97001f3540aa50ee",
+            "id": "c0a9060147a7fcae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/hooks/useLayoutEffect.md",
+                "file": "HomeWorks/react/React Hooks.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "ee3bfc680288f3e1",
+            "id": "660b8a227864d365",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +34,42 @@
             }
           },
           {
-            "id": "c0a9060147a7fcae",
+            "id": "fcc70928c0f06cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/hooks/useTransition.md",
+                "file": "Hard/React/concepts/Рефы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03fc0f322d2311ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/React/hooks/useState.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "337e177a752d1a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/React/concepts/Состояние.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "связность",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/hooks/useTransition.md",
+                "file": "HomeWorks/react/React Hooks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/hooks/useTransition.md",
+                "file": "HomeWorks/react/React Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/hooks/useTransition.md"
+                "file": "HomeWorks/react/React Hooks.md"
               }
             }
           }
@@ -174,22 +199,26 @@
   },
   "active": "c0a9060147a7fcae",
   "lastOpenFiles": [
-    "Hard/React/hooks/useSyncExternalStore.md",
-    "Hard/React/hooks/useTransition.md",
+    "Hard/React/concepts/Состояние.md",
     "Hard/React/hooks/useState.md",
-    "Hard/React/hooks/useMemo.md",
-    "HomeWorks/React.md",
-    "Hard/React/hooks/useReducer.md",
+    "HomeWorks/react/React Hooks.md",
+    "Hard/React/concepts/Рефы.md",
     "Hard/React/hooks/useRef.md",
-    "Hard/React/hooks/useEffect.md",
+    "Hard/React/hooks/useMemo.md",
     "Hard/React/hooks/useLayoutEffect.md",
-    "Hard/React/hooks/useCallback.md",
     "Hard/React/hooks/useInsertionEffect.md",
     "Hard/React/hooks/useImperativeHandle.md",
     "Hard/React/hooks/useId.md",
+    "Hard/React/hooks/useEffect.md",
     "Hard/React/hooks/useDeferredValue.md",
-    "Hard/React/hooks/useContext.md",
     "Hard/React/hooks/useDebugValue.md",
+    "Hard/React/hooks/useContext.md",
+    "Hard/React/hooks/useCallback.md",
+    "HomeWorks/react",
+    "HomeWorks/Без названия.md",
+    "Hard/React/hooks/useTransition.md",
+    "Hard/React/hooks/useSyncExternalStore.md",
+    "Hard/React/hooks/useReducer.md",
     "Hard/React/concepts/rendering/Рендер.md",
     "Hard/React/hooks",
     "Hard/React/concepts/Эффекты.md",
@@ -197,7 +226,6 @@
     "Hard/React/docs",
     "Hard/React/concepts/Реактивность.md",
     "HomeWorks",
-    "Hard/React/concepts/Рефы.md",
     "Hard/React/concepts/rendering/context-selectors.png",
     "Hard/React/concepts/rendering/context-parts.png",
     "Hard/React/concepts/rendering/context-separate.png",
@@ -209,16 +237,12 @@
     "Hard/React/concepts/rendering/react-memo-required.png",
     "Hard/React/concepts/rendering/react-memo-antipattern.png",
     "Hard/React/JSX.md",
-    "Hard/React/concepts/Состояние.md",
     "Hard/React/concepts/rendering",
     "Hard/React/concepts/Концепции.md",
     "Hard/React/concepts",
-    "Hard/Refactoring/Рефакторинг.md",
-    "Hard/React/Типизация.md",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
     "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
-    "mocker/modules/faker",
-    "mocker/modules/mockaroo"
+    "mocker/modules/faker"
   ]
 }
