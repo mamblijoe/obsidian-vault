@@ -68,8 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55551ae17970926b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/React/api/hydrateRoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomeWorks/react/React Hooks.md",
+                "file": "Hard/React/api/hydrateRoot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomeWorks/react/React Hooks.md",
+                "file": "Hard/React/api/hydrateRoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomeWorks/react/React Hooks.md"
+                "file": "Hard/React/api/hydrateRoot.md"
               }
             }
           }
@@ -197,12 +210,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c0a9060147a7fcae",
+  "active": "55551ae17970926b",
   "lastOpenFiles": [
+    "Hard/React/api/createRoot.md",
+    "Hard/React/api/hydrateRoot.md",
+    "Hard/React/api/flushSync.md",
+    "HomeWorks/react/React Hooks.md",
+    "Hard/React/api",
+    "Hard/React/concepts/Эффекты.md",
+    "Hard/React/concepts/Рефы.md",
     "Hard/React/concepts/Состояние.md",
     "Hard/React/hooks/useState.md",
-    "HomeWorks/react/React Hooks.md",
-    "Hard/React/concepts/Рефы.md",
     "Hard/React/hooks/useRef.md",
     "Hard/React/hooks/useMemo.md",
     "Hard/React/hooks/useLayoutEffect.md",
@@ -221,7 +239,6 @@
     "Hard/React/hooks/useReducer.md",
     "Hard/React/concepts/rendering/Рендер.md",
     "Hard/React/hooks",
-    "Hard/React/concepts/Эффекты.md",
     "Hard/React/Краткие итоги.md",
     "Hard/React/docs",
     "Hard/React/concepts/Реактивность.md",
@@ -236,13 +253,10 @@
     "Hard/React/concepts/rendering/react-memo-required-2.png",
     "Hard/React/concepts/rendering/react-memo-required.png",
     "Hard/React/concepts/rendering/react-memo-antipattern.png",
-    "Hard/React/JSX.md",
     "Hard/React/concepts/rendering",
-    "Hard/React/concepts/Концепции.md",
     "Hard/React/concepts",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
     "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
-    "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~",
-    "mocker/modules/faker"
+    "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~"
   ]
 }
