@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/api/hydrateRoot.md",
+                "file": "Hard/React/api/renderToString.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/api/hydrateRoot.md",
+                "file": "Hard/React/api/renderToString.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/api/hydrateRoot.md",
+                "file": "Hard/React/api/renderToString.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/api/hydrateRoot.md"
+                "file": "Hard/React/api/renderToString.md"
               }
             }
           }
@@ -212,8 +212,14 @@
   },
   "active": "55551ae17970926b",
   "lastOpenFiles": [
-    "Hard/React/api/createRoot.md",
+    "Hard/React/api/renderToReadableStream.md",
+    "Hard/React/api/renderToString.md",
+    "Hard/React/api/renderToStaticNodeStream.md",
+    "Hard/React/api/renderToStaticMarkup.md",
+    "`hydrateRoot`.md",
+    "Hard/React/api/renderToPipeableStream.md",
     "Hard/React/api/hydrateRoot.md",
+    "Hard/React/api/createRoot.md",
     "Hard/React/api/flushSync.md",
     "HomeWorks/react/React Hooks.md",
     "Hard/React/api",
@@ -234,14 +240,8 @@
     "Hard/React/hooks/useCallback.md",
     "HomeWorks/react",
     "HomeWorks/Без названия.md",
-    "Hard/React/hooks/useTransition.md",
-    "Hard/React/hooks/useSyncExternalStore.md",
-    "Hard/React/hooks/useReducer.md",
-    "Hard/React/concepts/rendering/Рендер.md",
     "Hard/React/hooks",
-    "Hard/React/Краткие итоги.md",
     "Hard/React/docs",
-    "Hard/React/concepts/Реактивность.md",
     "HomeWorks",
     "Hard/React/concepts/rendering/context-selectors.png",
     "Hard/React/concepts/rendering/context-parts.png",
