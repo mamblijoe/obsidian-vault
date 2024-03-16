@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasForward",
+      "SiReactrouter",
+      "SiNextdotjs",
+      "SiCss3",
+      "SiJavascript"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Hard/React": "SiReact",
+  "Hard/React/api": "FasListUl",
+  "Hard/React/Frameworks": "SiFramework",
+  "Hard/React/Типизация.md": "SiTypescript",
+  "Hard/React/JSX.md": "SiHtml5",
+  "Hard/OOP/Patterns": "RiReceiptLine",
+  "Hard/JavaScript": "SiJavascript",
+  "Hard/HTML": "SiHtml5",
+  "Hard/CSS": "SiCss3",
+  "Hard/NextJS": "SiNextdotjs",
+  "Hard/React/concepts/Как React работает.md": "SiReactrouter",
+  "Hard/React/concepts/rendering": "FasForward"
+}

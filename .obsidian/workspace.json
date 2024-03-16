@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/api/renderToString.md",
+                "file": "Hard/React/concepts/Как React работает.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/api/renderToString.md",
+                "file": "Hard/React/concepts/Как React работает.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/api/renderToString.md",
+                "file": "Hard/React/concepts/Как React работает.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/api/renderToString.md"
+                "file": "Hard/React/concepts/Как React работает.md"
               }
             }
           }
@@ -212,8 +212,14 @@
   },
   "active": "55551ae17970926b",
   "lastOpenFiles": [
-    "Hard/React/api/renderToReadableStream.md",
+    "Hard/React/concepts/rendering/Рендер.md",
+    "Hard/React/concepts/Как React работает.md",
+    "Hard/React/concepts/Состояние.md",
+    "Hard/React/concepts/Рефы.md",
+    "Hard/React/concepts/Реактивность.md",
+    "Hard/React/Типизация.md",
     "Hard/React/api/renderToString.md",
+    "Hard/React/api/renderToReadableStream.md",
     "Hard/React/api/renderToStaticNodeStream.md",
     "Hard/React/api/renderToStaticMarkup.md",
     "`hydrateRoot`.md",
@@ -224,8 +230,6 @@
     "HomeWorks/react/React Hooks.md",
     "Hard/React/api",
     "Hard/React/concepts/Эффекты.md",
-    "Hard/React/concepts/Рефы.md",
-    "Hard/React/concepts/Состояние.md",
     "Hard/React/hooks/useState.md",
     "Hard/React/hooks/useRef.md",
     "Hard/React/hooks/useMemo.md",
@@ -235,11 +239,7 @@
     "Hard/React/hooks/useId.md",
     "Hard/React/hooks/useEffect.md",
     "Hard/React/hooks/useDeferredValue.md",
-    "Hard/React/hooks/useDebugValue.md",
-    "Hard/React/hooks/useContext.md",
-    "Hard/React/hooks/useCallback.md",
     "HomeWorks/react",
-    "HomeWorks/Без названия.md",
     "Hard/React/hooks",
     "Hard/React/docs",
     "HomeWorks",
