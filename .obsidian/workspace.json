@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/concepts/Как React работает.md",
+                "file": "Hard/React/concepts/how-work/Fiber.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/concepts/Как React работает.md",
+                "file": "Hard/React/concepts/how-work/Fiber.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/concepts/Как React работает.md",
+                "file": "Hard/React/concepts/how-work/Fiber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/concepts/Как React работает.md"
+                "file": "Hard/React/concepts/how-work/Fiber.md"
               }
             }
           }
@@ -212,8 +212,15 @@
   },
   "active": "55551ae17970926b",
   "lastOpenFiles": [
+    "Hard/React/concepts/how-work/Эффекты.md",
+    "Hard/React/concepts/how-work/Fiber.md",
+    "Hard/React/concepts/how-work/Фазы.md",
+    "Hard/React/concepts/how-work/Reconciliation.md",
+    "Hard/React/concepts/how-work/Как React работает.md",
+    "Hard/React/concepts/how-work/Diffing Algorithm.md",
+    "Hard/React/concepts/how-work/Рендеринг.md",
+    "Hard/React/concepts/how-work",
     "Hard/React/concepts/rendering/Рендер.md",
-    "Hard/React/concepts/Как React работает.md",
     "Hard/React/concepts/Состояние.md",
     "Hard/React/concepts/Рефы.md",
     "Hard/React/concepts/Реактивность.md",
@@ -233,12 +240,6 @@
     "Hard/React/hooks/useState.md",
     "Hard/React/hooks/useRef.md",
     "Hard/React/hooks/useMemo.md",
-    "Hard/React/hooks/useLayoutEffect.md",
-    "Hard/React/hooks/useInsertionEffect.md",
-    "Hard/React/hooks/useImperativeHandle.md",
-    "Hard/React/hooks/useId.md",
-    "Hard/React/hooks/useEffect.md",
-    "Hard/React/hooks/useDeferredValue.md",
     "HomeWorks/react",
     "Hard/React/hooks",
     "Hard/React/docs",
@@ -256,7 +257,6 @@
     "Hard/React/concepts/rendering",
     "Hard/React/concepts",
     "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
-    "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~",
-    "Books/Совершенный Код/6-systemic-issue/28. Управление конструированием.md~"
+    "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~"
   ]
 }

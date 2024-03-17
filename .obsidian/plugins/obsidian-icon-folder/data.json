@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCodeCompare",
       "FasForward",
       "SiReactrouter",
       "SiNextdotjs",
-      "SiCss3",
-      "SiJavascript"
+      "SiCss3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,6 +37,8 @@
   "Hard/HTML": "SiHtml5",
   "Hard/CSS": "SiCss3",
   "Hard/NextJS": "SiNextdotjs",
-  "Hard/React/concepts/Как React работает.md": "SiReactrouter",
-  "Hard/React/concepts/rendering": "FasForward"
+  "Hard/React/concepts/rendering": "FasForward",
+  "Hard/React/concepts/how-work/Как React работает.md": "SiReactrouter",
+  "Hard/React/concepts/how-work/Рендеринг.md": "FasForward",
+  "Hard/React/concepts/how-work/Reconciliation.md": "FasCodeCompare"
 }
