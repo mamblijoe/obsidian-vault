@@ -4,85 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4fdbfc29750956cc",
+        "id": "cf46f22f79b7814b",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a9060147a7fcae",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeWorks/react/React Hooks.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "660b8a227864d365",
+            "id": "0357fd37f4fa6b9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard/React/hooks/useMemo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc70928c0f06cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hard/React/concepts/Рефы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03fc0f322d2311ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hard/React/hooks/useState.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337e177a752d1a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hard/React/concepts/Состояние.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55551ae17970926b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hard/React/concepts/how-work/Fiber.md",
+                "file": "Hard/React/concepts/rendering/Рендер.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/React/concepts/how-work/Fiber.md",
+                "file": "Hard/React/concepts/rendering/Рендер.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/React/concepts/how-work/Fiber.md",
+                "file": "Hard/React/concepts/rendering/Рендер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hard/React/concepts/how-work/Fiber.md"
+                "file": "Hard/React/concepts/rendering/Рендер.md"
               }
             }
           }
@@ -210,19 +147,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "55551ae17970926b",
+  "active": "0357fd37f4fa6b9a",
   "lastOpenFiles": [
-    "Hard/React/concepts/how-work/Эффекты.md",
-    "Hard/React/concepts/how-work/Fiber.md",
-    "Hard/React/concepts/how-work/Фазы.md",
     "Hard/React/concepts/how-work/Reconciliation.md",
-    "Hard/React/concepts/how-work/Как React работает.md",
+    "Hard/React/concepts/how-work/Fiber.md",
     "Hard/React/concepts/how-work/Diffing Algorithm.md",
+    "Hard/React/concepts/how-work/Эффекты.md",
+    "Hard/React/concepts/how-work/Фазы.md",
     "Hard/React/concepts/how-work/Рендеринг.md",
+    "Hard/React/concepts/how-work/Как React работает.md",
+    "Hard/React/concepts/how-work/images",
+    "Hard/React/concepts/how-work/images/render-phase.png",
+    "Hard/React/concepts/Состояние.md",
+    "Hard/React/hooks/useState.md",
+    "Hard/React/concepts/Рефы.md",
+    "Hard/React/hooks/useMemo.md",
+    "HomeWorks/react/React Hooks.md",
     "Hard/React/concepts/how-work",
     "Hard/React/concepts/rendering/Рендер.md",
-    "Hard/React/concepts/Состояние.md",
-    "Hard/React/concepts/Рефы.md",
     "Hard/React/concepts/Реактивность.md",
     "Hard/React/Типизация.md",
     "Hard/React/api/renderToString.md",
@@ -234,12 +176,8 @@
     "Hard/React/api/hydrateRoot.md",
     "Hard/React/api/createRoot.md",
     "Hard/React/api/flushSync.md",
-    "HomeWorks/react/React Hooks.md",
     "Hard/React/api",
     "Hard/React/concepts/Эффекты.md",
-    "Hard/React/hooks/useState.md",
-    "Hard/React/hooks/useRef.md",
-    "Hard/React/hooks/useMemo.md",
     "HomeWorks/react",
     "Hard/React/hooks",
     "Hard/React/docs",
@@ -253,10 +191,8 @@
     "Hard/React/concepts/rendering/react-memo-expensive.png",
     "Hard/React/concepts/rendering/react-memo-required-2.png",
     "Hard/React/concepts/rendering/react-memo-required.png",
-    "Hard/React/concepts/rendering/react-memo-antipattern.png",
     "Hard/React/concepts/rendering",
     "Hard/React/concepts",
-    "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~",
-    "Books/Совершенный Код/6-systemic-issue/30. Инструменты программирования.md~"
+    "Books/Совершенный Код/4-operators/14. Организация последовательного кода.md~"
   ]
 }
