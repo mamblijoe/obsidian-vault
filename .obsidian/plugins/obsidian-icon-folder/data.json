@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasCodeCompare",
-      "FasForward",
-      "SiReactrouter",
-      "SiNextdotjs",
-      "SiCss3"
+      "FasScrewdriverWrench",
+      "RiContractFill",
+      "BoBxsArchive",
+      "RiBox1Fill",
+      "SiPwa"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,10 @@
   "Hard/React/concepts/rendering": "FasForward",
   "Hard/React/concepts/how-work/Как React работает.md": "SiReactrouter",
   "Hard/React/concepts/how-work/Рендеринг.md": "FasForward",
-  "Hard/React/concepts/how-work/Reconciliation.md": "FasCodeCompare"
+  "Hard/React/concepts/how-work/Reconciliation.md": "FasCodeCompare",
+  "Hard/PWA": "SiPwa",
+  "Hard/PWA/Workbox.md": "RiBox1Fill",
+  "Hard/PWA/Кеширование.md": "BoBxsArchive",
+  "Hard/PWA/Манифест.md": "RiContractFill",
+  "Hard/PWA/Отладка.md": "FasScrewdriverWrench"
 }
