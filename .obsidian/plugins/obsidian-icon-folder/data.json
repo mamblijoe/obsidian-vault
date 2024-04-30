@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCodeCompare",
+      "SiTypescript",
       "FasScrewdriverWrench",
       "RiContractFill",
-      "BoBxsArchive",
-      "RiBox1Fill",
-      "SiPwa"
+      "BoBxsArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,7 @@
   "Hard/PWA/Workbox.md": "RiBox1Fill",
   "Hard/PWA/Кеширование.md": "BoBxsArchive",
   "Hard/PWA/Манифест.md": "RiContractFill",
-  "Hard/PWA/Отладка.md": "FasScrewdriverWrench"
+  "Hard/PWA/Отладка.md": "FasScrewdriverWrench",
+  "Hard/TypeScript": "SiTypescript",
+  "Hard/TypeScript/Совместимость типов.md": "FasCodeCompare"
 }

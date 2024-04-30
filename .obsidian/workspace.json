@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "703bfc7bb8530dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/TypeScript/Совместимость типов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HomeWorks/PWA.md",
+                "file": "Hard/TypeScript/Совместимость типов.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HomeWorks/PWA.md",
+                "file": "Hard/TypeScript/Совместимость типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HomeWorks/PWA.md"
+                "file": "Hard/TypeScript/Совместимость типов.md"
               }
             }
           }
@@ -147,8 +160,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b1aa8fd72c778b01",
+  "active": "703bfc7bb8530dc8",
   "lastOpenFiles": [
+    "Hard/TypeScript/Типизация.md",
+    "Hard/TypeScript/Совместимость типов.md",
+    "Hard/Общее.md",
+    "Hard/TypeScript",
     "HomeWorks/images/pwa-lifecycle.png",
     "Hard/PWA/images/network-only.png",
     "Hard/PWA/images/stale-while-revalidate.png",
@@ -184,13 +201,10 @@
     "Hard/React/api/renderToString.md",
     "Hard/React/api/renderToReadableStream.md",
     "Hard/React/api/renderToStaticNodeStream.md",
-    "Hard/React/api/renderToStaticMarkup.md",
-    "`hydrateRoot`.md",
     "Hard/React/api",
     "HomeWorks/react",
     "Hard/React/hooks",
     "Hard/React/docs",
-    "HomeWorks",
     "Hard/React/concepts/rendering/context-selectors.png",
     "Hard/React/concepts/rendering/context-parts.png",
     "Hard/React/concepts/rendering/context-separate.png"
