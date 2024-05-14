@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce6b6ee532ccdeb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,14 +158,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0357fd37f4fa6b9a",
+  "active": "ce6b6ee532ccdeb0",
   "lastOpenFiles": [
+    "Hard/React/concepts/Концепции.md",
+    "Hard/React/concepts/how-work/Рендеринг.md",
+    "Hard/React/concepts/rendering/Рендер.md",
     "Hard/React/concepts/how-work/Reconciliation.md",
     "Hard/React/concepts/how-work/Fiber.md",
     "Hard/React/concepts/how-work/Diffing Algorithm.md",
     "Hard/React/concepts/how-work/Эффекты.md",
     "Hard/React/concepts/how-work/Фазы.md",
-    "Hard/React/concepts/how-work/Рендеринг.md",
     "Hard/React/concepts/how-work/Как React работает.md",
     "Hard/React/concepts/how-work/images",
     "Hard/React/concepts/how-work/images/render-phase.png",
@@ -164,7 +177,6 @@
     "Hard/React/hooks/useMemo.md",
     "HomeWorks/react/React Hooks.md",
     "Hard/React/concepts/how-work",
-    "Hard/React/concepts/rendering/Рендер.md",
     "Hard/React/concepts/Реактивность.md",
     "Hard/React/Типизация.md",
     "Hard/React/api/renderToString.md",
