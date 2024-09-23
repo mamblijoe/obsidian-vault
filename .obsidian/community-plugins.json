@@ -1,4 +1,6 @@
 [
-  "codeblock-customizer",
-  "obsidian-icon-folder"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "tag-wrangler",
+  "obsidian-linter"
 ]

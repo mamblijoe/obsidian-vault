@@ -1,6 +1,7 @@
 {
-  "accentColor": "",
-  "cssTheme": "Things",
-  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "Colored-Sidebar"
+  ],
+  "cssTheme": "Minimal",
   "theme": "obsidian"
 }

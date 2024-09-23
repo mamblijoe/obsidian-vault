@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "082745f0e7dcaee8",
+    "id": "527d08f9298b84c7",
     "type": "split",
     "children": [
       {
-        "id": "6d4fe836b46c3fe4",
+        "id": "c8f2a082bc80964a",
         "type": "tabs",
         "children": [
           {
-            "id": "b1aa8fd72c778b01",
+            "id": "720eefac883cb1ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeWorks/PWA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "703bfc7bb8530dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hard/TypeScript/Совместимость типов.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d01a74b04558b23b",
+    "id": "0051977a6ca34827",
     "type": "split",
     "children": [
       {
-        "id": "fdb5b65d5d3a2a39",
+        "id": "f39fed799dcb2a00",
         "type": "tabs",
         "children": [
           {
-            "id": "590a401e5da0ef97",
+            "id": "6a484d66345a534f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "217b8453acb1b901",
+            "id": "d795027b0a5306ba",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "a9e9184166a96773",
+            "id": "01d0cfe7d444a46d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,24 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 300
   },
   "right": {
-    "id": "194965047808de27",
+    "id": "58b73ed807016835",
     "type": "split",
     "children": [
       {
-        "id": "a1dbb5825c41034e",
+        "id": "3338d19a44be7945",
         "type": "tabs",
         "children": [
           {
-            "id": "e88ec2e7e99be52f",
+            "id": "acd78a85ac8af0bd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hard/TypeScript/Совместимость типов.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "d362bfdff121335c",
+            "id": "794d3c67f5037824",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hard/TypeScript/Совместимость типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "616ae2cbe69ce8f4",
+            "id": "d212ac2e9cde1730",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,80 +114,42 @@
             }
           },
           {
-            "id": "20722aa27f70a64b",
+            "id": "11a187d3b68c450f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hard/TypeScript/Совместимость типов.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "2154007206c0c123",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "703bfc7bb8530dc8",
+  "active": "2154007206c0c123",
   "lastOpenFiles": [
-    "Hard/TypeScript/Типизация.md",
-    "Hard/TypeScript/Совместимость типов.md",
-    "Hard/Общее.md",
-    "Hard/TypeScript",
-    "HomeWorks/images/pwa-lifecycle.png",
-    "Hard/PWA/images/network-only.png",
-    "Hard/PWA/images/stale-while-revalidate.png",
-    "Hard/PWA/images/cache-only.png",
-    "HomeWorks/PWA.md",
-    "HomeWorks/images.md",
-    "HomeWorks/images",
-    "Hard/PWA/Отладка.md",
-    "Hard/PWA/Манифест.md",
-    "Hard/PWA/Workbox.md",
-    "Hard/PWA/Кеширование.md",
-    "Hard/PWA/images/network-first.png",
-    "Hard/PWA/images/cache-first.png",
-    "Hard/PWA/images",
-    "Hard/PWA/Общее.md",
-    "Hard/React/hooks/useId.md",
-    "Hard/React/hooks/useEffect.md",
-    "Hard/React/hooks/useDeferredValue.md",
-    "Hard/React/hooks/useDebugValue.md",
-    "Hard/React/hooks/useTransition.md",
-    "Hard/React/concepts/how-work/Эффекты.md",
-    "Hard/React/concepts/how-work/Фазы.md",
-    "Hard/React/concepts/how-work/Рендеринг.md",
-    "Hard/React/concepts/how-work/Как React работает.md",
-    "Hard/React/concepts/how-work/images/render-phase.png",
-    "Hard/React/concepts/how-work/images",
-    "Hard/React/concepts/how-work/Reconciliation.md",
-    "Hard/React/concepts/how-work/Fiber.md",
-    "Hard/React/concepts/how-work/Diffing Algorithm.md",
-    "Hard/React/concepts/how-work",
-    "Hard/PWA",
-    "Hard/React/hooks/useContext.md",
-    "Hard/React/api/renderToString.md",
-    "Hard/React/api/renderToReadableStream.md",
-    "Hard/React/api/renderToStaticNodeStream.md",
-    "Hard/React/api",
-    "HomeWorks/react",
-    "Hard/React/hooks",
-    "Hard/React/docs",
-    "Hard/React/concepts/rendering/context-selectors.png",
-    "Hard/React/concepts/rendering/context-parts.png",
-    "Hard/React/concepts/rendering/context-separate.png"
+    "adasd.md"
   ]
 }
