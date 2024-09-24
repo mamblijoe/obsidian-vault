@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f2a082bc80964a",
+        "id": "942b1148c8b023d9",
         "type": "tabs",
         "children": [
           {
-            "id": "720eefac883cb1ba",
+            "id": "ba37fd9e65f31fc3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,6 +128,18 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2ee7268ea4caba9a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -145,11 +157,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2154007206c0c123",
+  "active": "6a484d66345a534f",
   "lastOpenFiles": [
+    "03 Pet Projects",
+    "00 - Hard/Общее.md",
+    "23.09.2024.md",
+    "Untitled.md",
     "adasd.md"
   ]
 }
