@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "082745f0e7dcaee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf46f22f79b7814b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0357fd37f4fa6b9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/React/concepts/rendering/Рендер.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce6b6ee532ccdeb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d01a74b04558b23b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb5b65d5d3a2a39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "590a401e5da0ef97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "217b8453acb1b901",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9e9184166a96773",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "194965047808de27",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1dbb5825c41034e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e88ec2e7e99be52f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hard/React/concepts/rendering/Рендер.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d362bfdff121335c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hard/React/concepts/rendering/Рендер.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "616ae2cbe69ce8f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20722aa27f70a64b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hard/React/concepts/rendering/Рендер.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ce6b6ee532ccdeb0",
+  "lastOpenFiles": [
+    "HomeWorks/images/pwa-lifecycle.png",
+    "HomeWorks/images",
+    "HomeWorks/PWA.md",
+    "Hard/PWA/images/stale-while-revalidate.png",
+    "Hard/PWA/images/network-only.png",
+    "Hard/PWA/images/network-first.png",
+    "Hard/PWA/images/cache-only.png",
+    "Hard/PWA/images/cache-first.png",
+    "Hard/PWA/Отладка.md",
+    "Hard/PWA/Общее.md",
+    "Hard/PWA/Манифест.md",
+    "Hard/PWA/Кеширование.md",
+    "Hard/PWA/Workbox.md",
+    "Hard/PWA/images",
+    "Hard/PWA",
+    "Hard/React/concepts/Концепции.md",
+    "Hard/React/concepts/how-work/Рендеринг.md",
+    "Hard/React/concepts/rendering/Рендер.md",
+    "Hard/React/concepts/how-work/Reconciliation.md",
+    "Hard/React/concepts/how-work/Fiber.md",
+    "Hard/React/concepts/how-work/Diffing Algorithm.md",
+    "Hard/React/concepts/how-work/Эффекты.md",
+    "Hard/React/concepts/how-work/Фазы.md",
+    "Hard/React/concepts/how-work/Как React работает.md",
+    "Hard/React/concepts/how-work/images",
+    "Hard/React/concepts/how-work/images/render-phase.png",
+    "Hard/React/concepts/Состояние.md",
+    "Hard/React/hooks/useState.md",
+    "Hard/React/concepts/Рефы.md",
+    "Hard/React/hooks/useMemo.md",
+    "HomeWorks/react/React Hooks.md",
+    "Hard/React/concepts/how-work",
+    "Hard/React/concepts/Реактивность.md",
+    "Hard/React/Типизация.md",
+    "Hard/React/api/renderToString.md",
+    "Hard/React/api/renderToReadableStream.md",
+    "Hard/React/api/renderToStaticNodeStream.md",
+    "Hard/React/api",
+    "HomeWorks/react",
+    "Hard/React/hooks",
+    "Hard/React/docs",
+    "HomeWorks",
+    "Hard/React/concepts/rendering/context-selectors.png",
+    "Hard/React/concepts/rendering/context-parts.png",
+    "Hard/React/concepts/rendering/context-separate.png",
+    "Hard/React/concepts/rendering/context-memoize.png"
+  ]
+}

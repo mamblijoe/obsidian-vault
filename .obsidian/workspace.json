@@ -11,8 +11,12 @@
             "id": "ba37fd9e65f31fc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md"
+              }
             }
           },
           {
@@ -146,25 +154,43 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 568.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:Manage workspace layouts": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "workspaces:Пространства": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a484d66345a534f",
+  "active": "2154007206c0c123",
   "lastOpenFiles": [
-    "03 Pet Projects",
+    "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
+    "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+    "00 - Hard/00 - TypeScript/08 - Совместимость типов на основе  вида типизации.md",
+    "00 - Hard/00 - TypeScript/07 - Явная и неявная типизация.md",
+    "00 - Hard/00 - TypeScript/06 - Сильная и слабая типизация.md",
+    "00 - Hard/00 - TypeScript/05 - Статическая и динамическая  типизация.md",
+    "00 - Hard/00 - TypeScript/04 - Типизированные и  нетипизированные языки программирования.md",
+    "00 - Hard/00 - TypeScript/03 - Преобразование типов.md",
+    "00 - Hard/00 - TypeScript/02 - Связывание, типизация, вывод типов.md",
+    "00 - Hard/00 - TypeScript/01 - Система типов и тип данных.md",
+    "00 - Hard/00 - TypeScript/Old. Типизация.md",
+    "00 - Hard/00 - TypeScript/Old. Совместимость типов.md",
+    "00 - Hard/00 - TypeScript/00 - Общее.md",
+    "00 - Hard/NextJS/routing/Routing.md",
     "00 - Hard/Общее.md",
+    "00 - Hard/UI-глоссарий.md",
+    "00 - Hard/index.md",
+    "00 - Hard/typescipt/guidelines/naming/Венгерская нотация и интерфейсы.md",
+    "00 - Hard/TDD/Rules/Rules.md",
+    "03 Pet Projects",
     "23.09.2024.md",
     "Untitled.md",
     "adasd.md"
