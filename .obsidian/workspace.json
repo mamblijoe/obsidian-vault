@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md"
+                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md"
               }
             }
           },
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +169,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2154007206c0c123",
+  "active": "ba37fd9e65f31fc3",
   "lastOpenFiles": [
-    "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
-    "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
-    "00 - Hard/00 - TypeScript/08 - Совместимость типов на основе  вида типизации.md",
-    "00 - Hard/00 - TypeScript/07 - Явная и неявная типизация.md",
-    "00 - Hard/00 - TypeScript/06 - Сильная и слабая типизация.md",
+    "00 - Hard/00 - TypeScript/15 - Object, Array, Tuple.md",
+    "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
+    "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
+    "00 - Hard/00 - TypeScript/13 - Union, Intersection.md",
+    "00 - Hard/00 - TypeScript/14 - Type Queries , Alias.md",
+    "00 - Hard/00 - TypeScript/11 - Примитивные типы.md",
     "00 - Hard/00 - TypeScript/05 - Статическая и динамическая  типизация.md",
+    "00 - Hard/00 - TypeScript/06 - Сильная и слабая типизация.md",
+    "00 - Hard/00 - TypeScript/07 - Явная и неявная типизация.md",
+    "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+    "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
+    "00 - Hard/00 - TypeScript/08 - Совместимость типов на основе  вида типизации.md",
     "00 - Hard/00 - TypeScript/04 - Типизированные и  нетипизированные языки программирования.md",
     "00 - Hard/00 - TypeScript/03 - Преобразование типов.md",
     "00 - Hard/00 - TypeScript/02 - Связывание, типизация, вывод типов.md",
@@ -191,8 +197,6 @@
     "00 - Hard/typescipt/guidelines/naming/Венгерская нотация и интерфейсы.md",
     "00 - Hard/TDD/Rules/Rules.md",
     "03 Pet Projects",
-    "23.09.2024.md",
-    "Untitled.md",
-    "adasd.md"
+    "23.09.2024.md"
   ]
 }
