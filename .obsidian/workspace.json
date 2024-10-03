@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
+                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 581.5
   },
   "right": {
     "id": "58b73ed807016835",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
+                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
+                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md"
+                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md"
               }
             }
           },
@@ -171,8 +171,16 @@
   },
   "active": "ba37fd9e65f31fc3",
   "lastOpenFiles": [
-    "00 - Hard/00 - TypeScript/15 - Object, Array, Tuple.md",
+    "00 - Hard/00 - TypeScript/22 - Definite Assignment Assertion Modifier.md",
+    "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
+    "00 - Hard/00 - TypeScript/23 - Модификатор override.md",
+    "00 - Hard/00 - TypeScript/21 - Модификатор readonly (только для чтения).md",
+    "00 - Hard/00 - TypeScript/20 - Полиморфный тип this.md",
+    "00 - Hard/00 - TypeScript/19 - Абстрактные классы (abstract classes).md",
+    "00 - Hard/00 - TypeScript/18 - Модификаторы доступа (Access Modifiers).md",
+    "00 - Hard/00 - TypeScript/17 - Interfaces.md",
     "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
+    "00 - Hard/00 - TypeScript/15 - Object, Array, Tuple.md",
     "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
     "00 - Hard/00 - TypeScript/13 - Union, Intersection.md",
     "00 - Hard/00 - TypeScript/14 - Type Queries , Alias.md",
@@ -189,14 +197,6 @@
     "00 - Hard/00 - TypeScript/01 - Система типов и тип данных.md",
     "00 - Hard/00 - TypeScript/Old. Типизация.md",
     "00 - Hard/00 - TypeScript/Old. Совместимость типов.md",
-    "00 - Hard/00 - TypeScript/00 - Общее.md",
-    "00 - Hard/NextJS/routing/Routing.md",
-    "00 - Hard/Общее.md",
-    "00 - Hard/UI-глоссарий.md",
-    "00 - Hard/index.md",
-    "00 - Hard/typescipt/guidelines/naming/Венгерская нотация и интерфейсы.md",
-    "00 - Hard/TDD/Rules/Rules.md",
-    "03 Pet Projects",
-    "23.09.2024.md"
+    "03 Pet Projects"
   ]
 }
