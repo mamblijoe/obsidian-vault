@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "942b1148c8b023d9",
+        "id": "a103c9310773b497",
         "type": "tabs",
         "children": [
           {
-            "id": "ba37fd9e65f31fc3",
+            "id": "3e91f820b3ee8de6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
+                "file": "99 - code-complete-meetup/Качество ПО.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 581.5
+    "width": 305.5
   },
   "right": {
     "id": "58b73ed807016835",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
+                "file": "99 - code-complete-meetup/Качество ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
+                "file": "99 - code-complete-meetup/Качество ПО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md"
+                "file": "99 - code-complete-meetup/Качество ПО.md"
               }
             }
           },
@@ -166,13 +166,27 @@
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "workspaces:Пространства": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ba37fd9e65f31fc3",
+  "active": "3e91f820b3ee8de6",
   "lastOpenFiles": [
-    "00 - Hard/00 - TypeScript/22 - Definite Assignment Assertion Modifier.md",
+    "00 - Hard/wasdasd.md",
+    "98 - Templates/Без названия.md",
+    "2024-10-14.md",
+    "Без названия.md",
+    "00 - Hard/React/JSX.md",
+    "98 - Templates",
+    "00 - Hard/OOP/Связность (coupling).md",
+    "00 - Hard/OOP/Концепции.md",
+    "00 - Hard/OOP/Закон Деметры.md",
+    "00 - Hard/NextJS/routing/Routing.md",
+    "00 - Hard/JavaScript/this/Определение this.md",
+    "00 - Hard/HTML/HTML.md",
+    "00 - Hard/CSS/Practices.md",
     "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
+    "00 - Hard/00 - TypeScript/22 - Definite Assignment Assertion Modifier.md",
     "00 - Hard/00 - TypeScript/23 - Модификатор override.md",
     "00 - Hard/00 - TypeScript/21 - Модификатор readonly (только для чтения).md",
     "00 - Hard/00 - TypeScript/20 - Полиморфный тип this.md",
@@ -185,18 +199,6 @@
     "00 - Hard/00 - TypeScript/13 - Union, Intersection.md",
     "00 - Hard/00 - TypeScript/14 - Type Queries , Alias.md",
     "00 - Hard/00 - TypeScript/11 - Примитивные типы.md",
-    "00 - Hard/00 - TypeScript/05 - Статическая и динамическая  типизация.md",
-    "00 - Hard/00 - TypeScript/06 - Сильная и слабая типизация.md",
-    "00 - Hard/00 - TypeScript/07 - Явная и неявная типизация.md",
-    "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
-    "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
-    "00 - Hard/00 - TypeScript/08 - Совместимость типов на основе  вида типизации.md",
-    "00 - Hard/00 - TypeScript/04 - Типизированные и  нетипизированные языки программирования.md",
-    "00 - Hard/00 - TypeScript/03 - Преобразование типов.md",
-    "00 - Hard/00 - TypeScript/02 - Связывание, типизация, вывод типов.md",
-    "00 - Hard/00 - TypeScript/01 - Система типов и тип данных.md",
-    "00 - Hard/00 - TypeScript/Old. Типизация.md",
-    "00 - Hard/00 - TypeScript/Old. Совместимость типов.md",
     "03 Pet Projects"
   ]
 }
