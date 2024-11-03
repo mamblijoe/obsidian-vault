@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e91f820b3ee8de6",
+            "id": "78fbf9df14f822d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - code-complete-meetup/Качество ПО.md",
+                "file": "01 - Books/Чистая архитектура/II - Парадигмы программирования/03 - Обзор парадигм.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "03 - Обзор парадигм"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Книги",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - code-complete-meetup/Качество ПО.md",
+                "file": "02 - HomeWorks/Tailwind CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Tailwind CSS"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - code-complete-meetup/Качество ПО.md",
+                "file": "02 - HomeWorks/Tailwind CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Tailwind CSS"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - code-complete-meetup/Качество ПО.md"
-              }
+                "file": "02 - HomeWorks/Tailwind CSS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Tailwind CSS"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -146,7 +164,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           }
         ],
@@ -170,35 +190,51 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e91f820b3ee8de6",
+  "active": "78fbf9df14f822d2",
   "lastOpenFiles": [
-    "00 - Hard/wasdasd.md",
-    "98 - Templates/Без названия.md",
-    "2024-10-14.md",
-    "Без названия.md",
-    "00 - Hard/React/JSX.md",
-    "98 - Templates",
-    "00 - Hard/OOP/Связность (coupling).md",
-    "00 - Hard/OOP/Концепции.md",
-    "00 - Hard/OOP/Закон Деметры.md",
-    "00 - Hard/NextJS/routing/Routing.md",
-    "00 - Hard/JavaScript/this/Определение this.md",
-    "00 - Hard/HTML/HTML.md",
-    "00 - Hard/CSS/Practices.md",
-    "00 - Hard/00 - TypeScript/24 - Операторы - Optional, Not-Null Not- Undefined, Definite Assignment Assertion.md",
-    "00 - Hard/00 - TypeScript/22 - Definite Assignment Assertion Modifier.md",
-    "00 - Hard/00 - TypeScript/23 - Модификатор override.md",
-    "00 - Hard/00 - TypeScript/21 - Модификатор readonly (только для чтения).md",
-    "00 - Hard/00 - TypeScript/20 - Полиморфный тип this.md",
-    "00 - Hard/00 - TypeScript/19 - Абстрактные классы (abstract classes).md",
-    "00 - Hard/00 - TypeScript/18 - Модификаторы доступа (Access Modifiers).md",
-    "00 - Hard/00 - TypeScript/17 - Interfaces.md",
-    "00 - Hard/00 - TypeScript/16 - Function, Functional Types.md",
-    "00 - Hard/00 - TypeScript/15 - Object, Array, Tuple.md",
-    "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
-    "00 - Hard/00 - TypeScript/13 - Union, Intersection.md",
-    "00 - Hard/00 - TypeScript/14 - Type Queries , Alias.md",
-    "00 - Hard/00 - TypeScript/11 - Примитивные типы.md",
-    "03 Pet Projects"
+    "01 - Books/Чистая архитектура/VI - Детали/34 - Недостающая глава.md",
+    "01 - Books/Чистая архитектура/VI - Детали/09 - Принцип подстановки Барбары Лисков.md",
+    "01 - Books/Чистая архитектура/VI - Детали/33 - Практический пример.md",
+    "01 - Books/Чистая архитектура/VI - Детали/32 - Фреймворки - это деталь.md",
+    "01 - Books/Чистая архитектура/VI - Детали/31 - Веб - это деталь.md",
+    "01 - Books/Чистая архитектура/VI - Детали/30 - База данных - это деталь.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/29 - Чистая встраиваемая архитектура.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/09 - Принцип подстановки Барбары Лисков.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/28 - Границы тестов.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/17 - Границы.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/27 - Службы.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/26 - Главный компонент.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/25 - Уровни и границы.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/24 - Неполные границы.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/23 - Презенторы и скромные объекты.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/22 - Чистая архитектура.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/21 - Кричащая архитектура.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/20 - Бизнес-правила.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/19 - Политика и уровень.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/18 - Анатомия границ.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/17 - Границы - проведение разделяющих линий.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/16 - Независимость.md",
+    "01 - Books/Чистая архитектура/V - Архитектура/15 - Что такое архитектура.md",
+    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов/14 - Сочетаемость компонентов.md",
+    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов/09 - Принцип подстановки Барбары Лисков.md",
+    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов/13 - Связность компонентов.md",
+    "01 - Books/Чистая архитектура/VI - Детали",
+    "01 - Books/Чистая архитектура/V - Архитектура",
+    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов",
+    "01 - Books/Чистая архитектура/III - Принципы дизайна",
+    "01 - Books/Чистая архитектура/II - Парадигмы программирования",
+    "01 - Books/Чистая архитектура/I - Введение",
+    "01 - Books/Чистая архитектура",
+    "02 - Home Works/images/pwa-lifecycle.png",
+    "02 - Home Works/react",
+    "02 - Home Works/images",
+    "02 - Home Works",
+    "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
+    "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
+    "99 - code-complete-meetup/1.5-1.png",
+    "99 - code-complete-meetup/1.3-2.png",
+    "99 - code-complete-meetup/1.3-1.png",
+    "99 - code-complete-meetup/1.2-1.png",
+    "99 - code-complete-meetup/1.1-1.png"
   ]
 }
