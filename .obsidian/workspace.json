@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a103c9310773b497",
+        "id": "3d87bbaa76d0a83c",
         "type": "tabs",
         "children": [
           {
-            "id": "78fbf9df14f822d2",
+            "id": "374bd1e9a2d365f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Books/Чистая архитектура/III - Принципы дизайна/11 - Принцип инверсии зависимостей.md",
+                "file": "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - Принцип инверсии зависимостей"
+              "title": "12 - Примитивные литеральные типы"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Книги",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 291.5
   },
   "right": {
     "id": "58b73ed807016835",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md",
+                "file": "03 Pet Projects/01 - mocker/Модули.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Tailwind CSS"
+              "title": "Обратные ссылки для Модули"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md",
+                "file": "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Tailwind CSS"
+              "title": "Исходящие ссылки из 12 - Примитивные литеральные типы"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md"
+                "file": "03 Pet Projects/01 - mocker/Модули.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Tailwind CSS"
+              "title": "Структура Модули"
             }
           },
           {
@@ -168,13 +168,23 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
+          },
+          {
+            "id": "3f0f3c6ab2bee2ef",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,55 +196,59 @@
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "workspaces:Пространства": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "78fbf9df14f822d2",
+  "active": "374bd1e9a2d365f0",
   "lastOpenFiles": [
-    "98 - Templates/Шаблон с тегами и датой.md",
-    "98 - Templates/Без названия.md",
-    "01 - Books/Чистая архитектура/II - Парадигмы программирования/03 - Обзор парадигм.md",
-    "01 - Books/Чистая архитектура/VI - Детали/34 - Недостающая глава.md",
-    "01 - Books/Чистая архитектура/VI - Детали/09 - Принцип подстановки Барбары Лисков.md",
-    "01 - Books/Чистая архитектура/VI - Детали/33 - Практический пример.md",
-    "01 - Books/Чистая архитектура/VI - Детали/32 - Фреймворки - это деталь.md",
-    "01 - Books/Чистая архитектура/VI - Детали/31 - Веб - это деталь.md",
-    "01 - Books/Чистая архитектура/VI - Детали/30 - База данных - это деталь.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/29 - Чистая встраиваемая архитектура.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/09 - Принцип подстановки Барбары Лисков.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/28 - Границы тестов.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/17 - Границы.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/27 - Службы.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/26 - Главный компонент.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/25 - Уровни и границы.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/24 - Неполные границы.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/23 - Презенторы и скромные объекты.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/22 - Чистая архитектура.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/21 - Кричащая архитектура.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/20 - Бизнес-правила.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/19 - Политика и уровень.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/18 - Анатомия границ.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/17 - Границы - проведение разделяющих линий.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/16 - Независимость.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/15 - Что такое архитектура.md",
-    "01 - Books/Чистая архитектура/VI - Детали",
-    "01 - Books/Чистая архитектура/V - Архитектура",
-    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов",
-    "01 - Books/Чистая архитектура/III - Принципы дизайна",
-    "01 - Books/Чистая архитектура/II - Парадигмы программирования",
-    "01 - Books/Чистая архитектура/I - Введение",
-    "01 - Books/Чистая архитектура",
-    "02 - Home Works/images/pwa-lifecycle.png",
-    "02 - Home Works/react",
-    "02 - Home Works/images",
-    "02 - Home Works",
-    "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
-    "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
-    "99 - code-complete-meetup/1.5-1.png",
-    "99 - code-complete-meetup/1.3-2.png",
-    "99 - code-complete-meetup/1.3-1.png",
-    "99 - code-complete-meetup/1.2-1.png",
-    "99 - code-complete-meetup/1.1-1.png"
+    "00 - Hard/00 - TypeScript/11 - Примитивные типы.md",
+    "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
+    "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+    "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
+    "00 - Hard/React/concepts/rendering/Рендер.md",
+    "00 - Hard/00 - TypeScript/naming/Венгерская нотация и интерфейсы.md",
+    "08 - 13123",
+    "00 - Hard/Общее.md",
+    "00 - Hard/web/Rendering-Patterns/Паттерны рендеринга.md",
+    "00 - Hard/web/Rendering-Patterns",
+    "00 - Hard/web",
+    "00 - Hard/web-security/owasp/OWASP.md",
+    "00 - Hard/web-security/csp/img_2.png",
+    "00 - Hard/web-security/csp/img_1.png",
+    "00 - Hard/web-security/csp/img.png",
+    "00 - Hard/web-security/csp/Content Secure Policy.md",
+    "00 - Hard/web-security/owasp",
+    "00 - Hard/web-security/csp",
+    "00 - Hard/web-security",
+    "00 - Hard/wasdasd.md",
+    "00 - Hard/typescipt/guidelines/naming/Венгерская нотация и интерфейсы.md",
+    "00 - Hard/typescipt/guidelines/naming",
+    "00 - Hard/typescipt/guidelines",
+    "00 - Hard/typescipt",
+    "00 - Hard/index.md",
+    "00 - Hard/UI-глоссарий.md",
+    "00 - Hard/TDD/Rules/Rules.md",
+    "00 - Hard/TDD/TDD.md",
+    "00 - Hard/TDD/Rules",
+    "00 - Hard/Refactoring/Smells/Запахи.md",
+    "00 - Hard/Refactoring/Рефакторинг.md",
+    "00 - Hard/React/concepts/how-work/images/render-phase.png",
+    "00 - Hard/OOP/Patterns/Structural/Proxy/Прокси.md",
+    "00 - Hard/OOP/Patterns/Structural/Proxy/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Flyweight/Легковес.md",
+    "00 - Hard/OOP/Patterns/Structural/Flyweight/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Facade/Фасад.md",
+    "00 - Hard/OOP/Patterns/Structural/Facade/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Decorator/Декоратор.md",
+    "00 - Hard/OOP/Patterns/Structural/Decorator/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Composite/Композит.md",
+    "00 - Hard/OOP/Patterns/Structural/Composite/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Bridge/Мост.md",
+    "00 - Hard/OOP/Patterns/Structural/Bridge/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Adapter/Адаптер.md",
+    "00 - Hard/OOP/Patterns/Creational/Singleton/Синглтон.md"
   ]
 }

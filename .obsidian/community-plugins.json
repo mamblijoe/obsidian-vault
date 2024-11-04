@@ -1,8 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-minimal-settings",
   "tag-wrangler",
   "obsidian-linter",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-day-planner"
 ]
