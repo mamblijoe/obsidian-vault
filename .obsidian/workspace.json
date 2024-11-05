@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
+                "file": "01 - Books/Чистая архитектура/I - Введение/02 - История о двух ценностях.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - Примитивные литеральные типы"
+              "title": "02 - История о двух ценностях"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Pet Projects/01 - mocker/Модули.md"
+                "file": "01 - Books/Чистая архитектура/I - Введение/02 - История о двух ценностях.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Модули"
+              "title": "Структура 02 - История о двух ценностях"
             }
           },
           {
@@ -204,8 +204,12 @@
   },
   "active": "374bd1e9a2d365f0",
   "lastOpenFiles": [
-    "00 - Hard/00 - TypeScript/11 - Примитивные типы.md",
+    "01 - Books/Чистая архитектура/I - Введение/01 - Что такое дизайн и архитектура.md",
+    "01 - Books/Чистая архитектура/I - Введение/02 - История о двух ценностях.md",
+    "01 - Books/Чистая архитектура/Чистая архитектура.md",
+    "98 - Templates/0A_6_Books/0A_6_1_Books.md",
     "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
+    "00 - Hard/00 - TypeScript/11 - Примитивные типы.md",
     "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
     "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
     "00 - Hard/React/concepts/rendering/Рендер.md",
@@ -244,11 +248,7 @@
     "00 - Hard/OOP/Patterns/Structural/Facade/img.png",
     "00 - Hard/OOP/Patterns/Structural/Decorator/Декоратор.md",
     "00 - Hard/OOP/Patterns/Structural/Decorator/img.png",
-    "00 - Hard/OOP/Patterns/Structural/Composite/Композит.md",
     "00 - Hard/OOP/Patterns/Structural/Composite/img.png",
-    "00 - Hard/OOP/Patterns/Structural/Bridge/Мост.md",
-    "00 - Hard/OOP/Patterns/Structural/Bridge/img.png",
-    "00 - Hard/OOP/Patterns/Structural/Adapter/Адаптер.md",
-    "00 - Hard/OOP/Patterns/Creational/Singleton/Синглтон.md"
+    "00 - Hard/OOP/Patterns/Structural/Bridge/img.png"
   ]
 }
