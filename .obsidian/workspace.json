@@ -11,10 +11,14 @@
             "id": "607d082c1630e090",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Books/Чистая архитектура/II - Парадигмы программирования/05 - Объектно-ориентированное программирование.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "05 - Объектно-ориентированное программирование"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "58b73ed807016835",
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "01 - Books/Чистая архитектура/II - Парадигмы программирования/05 - Объектно-ориентированное программирование.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 05 - Объектно-ориентированное программирование"
             }
           },
           {
@@ -198,6 +204,8 @@
   },
   "active": "607d082c1630e090",
   "lastOpenFiles": [
+    "01 - Books/Чистая архитектура/II - Парадигмы программирования/04 - Структурное программирование.md",
+    "01 - Books/Чистая архитектура/II - Парадигмы программирования/03 - Обзор парадигм.md",
     "01 - Books/Чистая архитектура/I - Введение/02 - История о двух ценностях.md",
     "01 - Books/Чистая архитектура/I - Введение/01 - Что такое дизайн и архитектура.md",
     "01 - Books/Чистая архитектура/Чистая архитектура.md",
@@ -238,9 +246,7 @@
     "00 - Hard/OOP/Patterns/Structural/Proxy/img.png",
     "00 - Hard/OOP/Patterns/Structural/Flyweight/Легковес.md",
     "00 - Hard/OOP/Patterns/Structural/Flyweight/img.png",
-    "00 - Hard/OOP/Patterns/Structural/Facade/Фасад.md",
     "00 - Hard/OOP/Patterns/Structural/Facade/img.png",
-    "00 - Hard/OOP/Patterns/Structural/Decorator/Декоратор.md",
     "00 - Hard/OOP/Patterns/Structural/Decorator/img.png",
     "00 - Hard/OOP/Patterns/Structural/Composite/img.png",
     "00 - Hard/OOP/Patterns/Structural/Bridge/img.png"
