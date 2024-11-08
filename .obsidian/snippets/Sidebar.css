@@ -1,0 +1,41 @@
+:root {
+    --primary-red: #e73121;
+    --white: #fff;
+}
+
+.inline-title  {
+    color: var(--white);
+}
+
+.cm-header {
+    color: var(--white);
+}
+
+.hr.cm-line hr {
+    border-color: var(--primary-red);
+}
+
+.nav-files-container {
+    & > div {
+        & > .nav-folder {
+            border-radius: 5px;
+            border: 1px solid var(--primary-red);
+            margin: 5px 0;
+
+            & .collapse-icon {
+                & svg {
+                    stroke: var(--white);
+                }
+            }
+
+            & .nav-folder-title {
+                color: white;
+                font-weight: bold;
+                cursor: pointer;
+                position: relative;
+
+            }
+        }
+    }
+}
+
