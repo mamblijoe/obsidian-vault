@@ -1,90 +1,140 @@
 {
-	"nodes":[
-		{
-			"id":"617503f41cf9e9cf",
-			"type":"text",
-			"text":"Интерактор финансового отчета",
-			"styleAttributes":{"textAlign":"center"},
-			"x":120,
-			"y":-280,
-			"width":300,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"c5c1bbb8bb9c6d4e",
-			"type":"text",
-			"text":"Контроллер финансового отчета",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-340,
-			"y":-280,
-			"width":290,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"099fc5f09189cb2d",
-			"type":"text",
-			"text":"Экранный презентатор",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-465,
-			"y":-30,
-			"width":250,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"0529933ac29230b3",
-			"type":"text",
-			"text":"Печатный презентатор",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-175,
-			"y":-30,
-			"width":250,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"26f5f09841431c1c",
-			"type":"text",
-			"text":"Финансовая БД",
-			"styleAttributes":{"textAlign":"center"},
-			"x":120,
-			"y":-30,
-			"width":300,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"0330df73e47caff7",
-			"type":"text",
-			"text":"Веб-представление",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-465,
-			"y":140,
-			"width":250,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"c3d311cd7210aa3d",
-			"type":"text",
-			"text":"PDF-представление",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-175,
-			"y":140,
-			"width":250,
-			"height":60,
-			"color":"4"
-		}
-	],
-	"edges":[
-		{"id":"cb263b894fdf5772","fromNode":"26f5f09841431c1c","fromSide":"top","toNode":"617503f41cf9e9cf","toSide":"bottom"},
-		{"id":"3fffa7823d43a74e","fromNode":"c5c1bbb8bb9c6d4e","fromSide":"right","toNode":"617503f41cf9e9cf","toSide":"left"},
-		{"id":"518ffd1a2d21dfee","fromNode":"099fc5f09189cb2d","fromSide":"top","toNode":"c5c1bbb8bb9c6d4e","toSide":"bottom"},
-		{"id":"f2dad465b9de5ed7","fromNode":"0529933ac29230b3","fromSide":"top","toNode":"c5c1bbb8bb9c6d4e","toSide":"bottom"},
-		{"id":"abdd4d675408bb1d","fromNode":"0330df73e47caff7","fromSide":"top","toNode":"099fc5f09189cb2d","toSide":"bottom"},
-		{"id":"8739c466a6184691","fromNode":"c3d311cd7210aa3d","fromSide":"top","toNode":"0529933ac29230b3","toSide":"bottom"}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "617503f41cf9e9cf",
+      "type": "text",
+      "text": "Интерактор финансового отчета",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 120,
+      "y": -280,
+      "width": 300,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "c5c1bbb8bb9c6d4e",
+      "type": "text",
+      "text": "Контроллер финансового отчета",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": -280,
+      "width": 290,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "099fc5f09189cb2d",
+      "type": "text",
+      "text": "Экранный презентатор",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -465,
+      "y": -30,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "0529933ac29230b3",
+      "type": "text",
+      "text": "Печатный презентатор",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -175,
+      "y": -30,
+      "width": 250,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "26f5f09841431c1c",
+      "type": "text",
+      "text": "Финансовая БД",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 120,
+      "y": -30,
+      "width": 300,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "0330df73e47caff7",
+      "type": "text",
+      "text": "Веб-представление",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -465,
+      "y": 140,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "c3d311cd7210aa3d",
+      "type": "text",
+      "text": "PDF-представление",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -175,
+      "y": 140,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "cb263b894fdf5772",
+      "fromNode": "26f5f09841431c1c",
+      "fromSide": "top",
+      "toNode": "617503f41cf9e9cf",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3fffa7823d43a74e",
+      "fromNode": "c5c1bbb8bb9c6d4e",
+      "fromSide": "right",
+      "toNode": "617503f41cf9e9cf",
+      "toSide": "left"
+    },
+    {
+      "id": "518ffd1a2d21dfee",
+      "fromNode": "099fc5f09189cb2d",
+      "fromSide": "top",
+      "toNode": "c5c1bbb8bb9c6d4e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f2dad465b9de5ed7",
+      "fromNode": "0529933ac29230b3",
+      "fromSide": "top",
+      "toNode": "c5c1bbb8bb9c6d4e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "abdd4d675408bb1d",
+      "fromNode": "0330df73e47caff7",
+      "fromSide": "top",
+      "toNode": "099fc5f09189cb2d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "8739c466a6184691",
+      "fromNode": "c3d311cd7210aa3d",
+      "fromSide": "top",
+      "toNode": "0529933ac29230b3",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
 }

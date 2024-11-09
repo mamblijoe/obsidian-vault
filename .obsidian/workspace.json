@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a103c9310773b497",
+        "id": "1c71dfa9af67f64f",
         "type": "tabs",
         "children": [
           {
-            "id": "78fbf9df14f822d2",
+            "id": "607d082c1630e090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Books/Чистая архитектура/III - Принципы дизайна/08 - Принцип открытости - закрытости.md",
+                "file": "01 - Books/Чистая архитектура/V - Архитектура/15 - Что такое архитектура.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - Принцип открытости - закрытости"
+              "title": "15 - Что такое архитектура"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 200
   },
   "right": {
     "id": "58b73ed807016835",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md",
+                "file": "03 Pet Projects/01 - mocker/Модули.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Tailwind CSS"
+              "title": "Обратные ссылки для Модули"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md",
+                "file": "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Tailwind CSS"
+              "title": "Исходящие ссылки из 12 - Примитивные литеральные типы"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md"
+                "file": "01 - Books/Чистая архитектура/V - Архитектура/15 - Что такое архитектура.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Tailwind CSS"
+              "title": "Структура 15 - Что такое архитектура"
             }
           },
           {
@@ -168,13 +168,23 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
+          },
+          {
+            "id": "3f0f3c6ab2bee2ef",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,55 +196,60 @@
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "workspaces:Пространства": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "78fbf9df14f822d2",
+  "active": "607d082c1630e090",
   "lastOpenFiles": [
-    "01 - Books/Чистая архитектура/III - Принципы дизайна/OCP Пример.canvas",
-    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов/12 - Компоненты.md",
+    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов/14 - Сочетаемость компонентов.md",
     "01 - Books/Чистая архитектура/IV - Принципы организации компонентов/13 - Связность компонентов.md",
-    "01 - Books/Чистая архитектура/III - Принципы дизайна/07 - Принцип единственной ответственности.md",
-    "00 - Hard/00 - TypeScript/naming/Венгерская нотация и интерфейсы.md",
-    "00 - Hard/00 - TypeScript/naming",
-    "00 - Hard/wasdasd.md",
-    "01 - Books/Чистая архитектура/III - Принципы дизайна/08 - Принцип открытости - закрытости.md",
-    "01 - Books/Чистая архитектура/III - Принципы дизайна/09 - Принцип подстановки Барбары Лисков.md",
-    "01 - Books/Чистая архитектура/III - Принципы дизайна/10 - Принцип разделения интерфейсов.md",
+    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов/12 - Компоненты.md",
+    "01 - Books/Чистая архитектура/III - Принципы дизайна/OCP Пример.canvas",
     "01 - Books/Чистая архитектура/III - Принципы дизайна/11 - Принцип инверсии зависимостей.md",
-    "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
-    "00 - Hard/00 - TypeScript/04 - Типизированные и  нетипизированные языки программирования.md",
-    "00 - Hard/UI-глоссарий.md",
-    "98 - Templates/Шаблон с тегами и датой.md",
-    "98 - Templates/Без названия.md",
+    "01 - Books/Чистая архитектура/III - Принципы дизайна/10 - Принцип разделения интерфейсов.md",
+    "01 - Books/Чистая архитектура/III - Принципы дизайна/09 - Принцип подстановки Барбары Лисков.md",
+    "01 - Books/Чистая архитектура/III - Принципы дизайна/08 - Принцип открытости - закрытости.md",
+    "01 - Books/Чистая архитектура/III - Принципы дизайна/07 - Принцип единственной ответственности.md",
+    "01 - Books/Чистая архитектура/II - Парадигмы программирования/06 - Функциональное программирование.md",
+    "01 - Books/Чистая архитектура/II - Парадигмы программирования/05 - Объектно-ориентированное программирование.md",
+    "01 - Books/Чистая архитектура/II - Парадигмы программирования/04 - Структурное программирование.md",
     "01 - Books/Чистая архитектура/II - Парадигмы программирования/03 - Обзор парадигм.md",
-    "01 - Books/Чистая архитектура/VI - Детали/34 - Недостающая глава.md",
-    "01 - Books/Чистая архитектура/VI - Детали/09 - Принцип подстановки Барбары Лисков.md",
-    "01 - Books/Чистая архитектура/VI - Детали/33 - Практический пример.md",
-    "01 - Books/Чистая архитектура/VI - Детали/32 - Фреймворки - это деталь.md",
-    "01 - Books/Чистая архитектура/VI - Детали/31 - Веб - это деталь.md",
-    "01 - Books/Чистая архитектура/VI - Детали/30 - База данных - это деталь.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/29 - Чистая встраиваемая архитектура.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/09 - Принцип подстановки Барбары Лисков.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/28 - Границы тестов.md",
-    "01 - Books/Чистая архитектура/V - Архитектура/17 - Границы.md",
-    "01 - Books/Чистая архитектура/VI - Детали",
-    "01 - Books/Чистая архитектура/V - Архитектура",
-    "01 - Books/Чистая архитектура/IV - Принципы организации компонентов",
-    "01 - Books/Чистая архитектура/III - Принципы дизайна",
-    "01 - Books/Чистая архитектура/II - Парадигмы программирования",
-    "01 - Books/Чистая архитектура/I - Введение",
-    "01 - Books/Чистая архитектура",
-    "02 - Home Works/images/pwa-lifecycle.png",
-    "02 - Home Works/react",
-    "02 - Home Works/images",
-    "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
-    "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
-    "99 - code-complete-meetup/1.5-1.png",
-    "99 - code-complete-meetup/1.3-2.png",
-    "99 - code-complete-meetup/1.3-1.png",
-    "99 - code-complete-meetup/1.2-1.png",
-    "99 - code-complete-meetup/1.1-1.png"
+    "01 - Books/Чистая архитектура/I - Введение/02 - История о двух ценностях.md",
+    "01 - Books/Чистая архитектура/I - Введение/01 - Что такое дизайн и архитектура.md",
+    "01 - Books/Чистая архитектура/Чистая архитектура.md",
+    "98 - Templates/0A_6_Books/0A_6_1_Books.md",
+    "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
+    "00 - Hard/00 - TypeScript/11 - Примитивные типы.md",
+    "00 - Hard/00 - TypeScript/10 - Аннотация Типов.md",
+    "00 - Hard/00 - TypeScript/09 - Совместимость типов на основе вариантности.md",
+    "00 - Hard/React/concepts/rendering/Рендер.md",
+    "00 - Hard/00 - TypeScript/naming/Венгерская нотация и интерфейсы.md",
+    "08 - 13123",
+    "00 - Hard/Общее.md",
+    "00 - Hard/web/Rendering-Patterns/Паттерны рендеринга.md",
+    "00 - Hard/web/Rendering-Patterns",
+    "00 - Hard/web",
+    "00 - Hard/web-security/owasp/OWASP.md",
+    "00 - Hard/web-security/csp/img_2.png",
+    "00 - Hard/web-security/csp/img_1.png",
+    "00 - Hard/web-security/csp/img.png",
+    "00 - Hard/web-security/csp/Content Secure Policy.md",
+    "00 - Hard/web-security/owasp",
+    "00 - Hard/web-security/csp",
+    "00 - Hard/web-security",
+    "00 - Hard/typescipt/guidelines/naming",
+    "00 - Hard/typescipt/guidelines",
+    "00 - Hard/typescipt",
+    "00 - Hard/TDD/Rules",
+    "00 - Hard/React/concepts/how-work/images/render-phase.png",
+    "00 - Hard/OOP/Patterns/Structural/Proxy/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Flyweight/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Facade/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Decorator/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Composite/img.png",
+    "00 - Hard/OOP/Patterns/Structural/Bridge/img.png"
   ]
 }
