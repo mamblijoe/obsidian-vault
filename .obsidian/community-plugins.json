@@ -1,11 +1,8 @@
 [
   "obsidian-git",
+  "obsidian-minimal-settings",
   "tag-wrangler",
   "obsidian-linter",
   "obsidian-tasks-plugin",
-  "templater-obsidian",
-  "obsidian-day-planner",
-  "obsidian-icon-folder",
-  "canvas-mindmap",
-  "advanced-canvas"
+  "templater-obsidian"
 ]
