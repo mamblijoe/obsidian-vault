@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a103c9310773b497",
+        "id": "1c71dfa9af67f64f",
         "type": "tabs",
         "children": [
           {
-            "id": "78fbf9df14f822d2",
+            "id": "607d082c1630e090",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 200
   },
   "right": {
     "id": "58b73ed807016835",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md",
+                "file": "03 Pet Projects/01 - mocker/Модули.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Tailwind CSS"
+              "title": "Обратные ссылки для Модули"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md",
+                "file": "00 - Hard/00 - TypeScript/12 - Примитивные литеральные типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Tailwind CSS"
+              "title": "Исходящие ссылки из 12 - Примитивные литеральные типы"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - HomeWorks/Tailwind CSS.md"
+                "file": "01 - Books/Чистая архитектура/V - Архитектура/15 - Что такое архитектура.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Tailwind CSS"
+              "title": "Структура 15 - Что такое архитектура"
             }
           },
           {
@@ -183,13 +183,23 @@
               "icon": "lucide-archive",
               "title": "Все свойства"
             }
+          },
+          {
+            "id": "3f0f3c6ab2bee2ef",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +211,10 @@
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "workspaces:Пространства": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "6d7bd4059d234668",
