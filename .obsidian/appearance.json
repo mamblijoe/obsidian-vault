@@ -1,8 +1,7 @@
 {
   "enabledCssSnippets": [
-    "Colored-Sidebar",
-    "Sidebar"
+    "Colored-Sidebar"
   ],
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Typewriter",
   "theme": "obsidian"
 }
