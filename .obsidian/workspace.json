@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hard/OOP/Patterns/BFF.md",
+                "file": "00 - Hard/Dev Tools/Console.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFF"
+              "title": "Console"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 388.5
   },
   "right": {
     "id": "58b73ed807016835",
@@ -203,8 +203,10 @@
   },
   "active": "23c517cfe3c7429a",
   "lastOpenFiles": [
-    "00 - Hard/OOP/Patterns/Creational/Abstract-factory/Абстрактная фабрика.md",
     "00 - Hard/OOP/Patterns/BFF.md",
+    "00 - Hard/Dev Tools/Console.md",
+    "00 - Hard/Dev Tools",
+    "00 - Hard/OOP/Patterns/Creational/Abstract-factory/Абстрактная фабрика.md",
     "00 - Hard/OOP/Концепции.md",
     "00 - Hard/OOP/Закон Деметры.md",
     "00 - Hard/React/JSX.md",
@@ -228,7 +230,6 @@
     "00 - Hard/OOP/Patterns/Creational/Порождающие паттерны.md",
     "00 - Hard/OOP/Patterns/Паттерны проектирования.md",
     "00 - Hard/HTML/HTML.md",
-    "00 - Hard/typescipt/guidelines/naming/Венгерская нотация и интерфейсы.md",
     "01 - Books/Чистая архитектура/III - Принципы дизайна/OCP Пример.canvas",
     "00 - Hard/00 - TypeScript/naming",
     "01 - Books/Чистая архитектура/VI - Детали",
@@ -240,7 +241,6 @@
     "01 - Books/Чистая архитектура",
     "02 - Home Works/images/pwa-lifecycle.png",
     "02 - Home Works/react",
-    "02 - Home Works/images",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "99 - code-complete-meetup/1.5-1.png",
