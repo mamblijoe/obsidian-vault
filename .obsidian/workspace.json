@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "98 - Templates/Шаблон с тегами и датой.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -203,8 +203,8 @@
   },
   "active": "23c517cfe3c7429a",
   "lastOpenFiles": [
-    "03 - Pet Projects/Untitled.md",
     "98 - Templates/Шаблон с тегами и датой.md",
+    "03 - Pet Projects/Untitled.md",
     "00 - Hard/Dev Tools/Console.md",
     "98 - Templates/0A_16_Investment/0A_16_1_Stocks.md",
     "98 - Templates/Без названия.md",
