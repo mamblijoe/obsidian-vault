@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Hard/OOP/Patterns/BFF.md",
+                "file": "01 - Books/YDKJS/Познакомьтесь, JavaScript/2. Обзор возможностей JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFF"
+              "title": "2. Обзор возможностей JS"
             }
           }
         ]
@@ -201,8 +201,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a484d66345a534f",
+  "active": "41649f3013db427e",
   "lastOpenFiles": [
+    "01 - Books/YDKJS/Познакомьтесь, JavaScript/1. Что такое JavaScript.md",
+    "01 - Books/YDKJS/Познакомьтесь, JavaScript/2. Обзор возможностей JS.md",
+    "00 - Hard/OOP/Patterns/BFF.md",
+    "01 - Books/YDKJS/Познакомьтесь, JavaScript",
+    "01 - Books/YDKJS",
     "00 - Hard/Общее.md",
     "00 - Hard/index.md",
     "00 - Hard/Dev Tools/Console.md",
@@ -226,9 +231,6 @@
     "98 - Templates/0A_3_Project/0A_3_2_ActionPlan.md",
     "98 - Templates/0A_3_Project/0A_3_1_Project.md",
     "98 - Templates/0A_2_Lists/0A_2_1_List.md",
-    "98 - Templates/0A_1_Logs/0A_1_10_WeekAndDailyLog.md",
-    "98 - Templates/0A_1_Logs/0A_1_9_WeeklyLog_V2.md",
-    "98 - Templates/0A_1_Logs/0A_1_8_WeeklyReview_V2.md",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "00 - Hard/Dev Tools",
@@ -240,9 +242,7 @@
     "01 - Books/Чистая архитектура/III - Принципы дизайна",
     "01 - Books/Чистая архитектура/II - Парадигмы программирования",
     "01 - Books/Чистая архитектура/I - Введение",
-    "01 - Books/Чистая архитектура",
     "02 - Home Works/images/pwa-lifecycle.png",
-    "02 - Home Works/react",
     "99 - code-complete-meetup/1.5-1.png",
     "99 - code-complete-meetup/1.3-2.png",
     "99 - code-complete-meetup/1.3-1.png",
