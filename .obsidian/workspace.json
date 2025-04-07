@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Books/YDKJS/Познакомьтесь, JavaScript/2. Обзор возможностей JS.md",
+                "file": "01 - Books/YDKJS/Познакомьтесь, JavaScript/3. JS - копаем вглубь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Обзор возможностей JS"
+              "title": "3. JS - копаем вглубь"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "41649f3013db427e",
   "lastOpenFiles": [
-    "01 - Books/YDKJS/Познакомьтесь, JavaScript/1. Что такое JavaScript.md",
     "01 - Books/YDKJS/Познакомьтесь, JavaScript/2. Обзор возможностей JS.md",
+    "01 - Books/YDKJS/Познакомьтесь, JavaScript/3. JS - копаем вглубь.md",
+    "01 - Books/YDKJS/Познакомьтесь, JavaScript/1. Что такое JavaScript.md",
     "00 - Hard/OOP/Patterns/BFF.md",
     "01 - Books/YDKJS/Познакомьтесь, JavaScript",
     "01 - Books/YDKJS",
@@ -230,7 +231,6 @@
     "98 - Templates/0A_3_Project/0A_3_3_Project_V2.md",
     "98 - Templates/0A_3_Project/0A_3_2_ActionPlan.md",
     "98 - Templates/0A_3_Project/0A_3_1_Project.md",
-    "98 - Templates/0A_2_Lists/0A_2_1_List.md",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "00 - Hard/Dev Tools",
