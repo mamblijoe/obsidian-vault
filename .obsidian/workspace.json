@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "73cadd4484ae2e35",
+        "id": "16078b790ea01bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "41649f3013db427e",
+            "id": "98ed60aadd130a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Books/YDKJS/1. Познакомьтесь, JavaScript/4. Общая картина.md",
+                "file": "01 - Books/YDKJS/2. Области видимости и замыкания/1. Что такое области видимости.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Общая картина"
+              "title": "1. Что такое области видимости"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bff",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,11 +201,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a484d66345a534f",
+  "active": "98ed60aadd130a63",
   "lastOpenFiles": [
+    "01 - Books/YDKJS/2. Области видимости и замыкания/1. Что такое области видимости.md",
+    "01 - Books/Совершенный Код/3-variables/10. Общие принципы использования переменных.md",
+    "01 - Books/YDKJS/1. Познакомьтесь, JavaScript/4. Общая картина.md",
     "01 - Books/YDKJS/6. ES и не только",
     "01 - Books/YDKJS/6.  ES.md",
-    "01 - Books/YDKJS/1. Познакомьтесь, JavaScript/4. Общая картина.md",
     "01 - Books/YDKJS/5. Асинхронная обработка и оптимизация",
     "01 - Books/YDKJS/4. Типы и грамматические конструкции",
     "01 - Books/YDKJS/3. Замыкания и объекты",
@@ -234,14 +236,12 @@
     "98 - Templates/0A_14_Trackers/0A_14_1_SlipBox.md",
     "98 - Templates/0A_15_Company/0A_15_1_Company.md",
     "98 - Templates/0A_99_Index/0A_99_Index.md",
-    "98 - Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (1).png",
     "03 - Pet Projects/01 - mocker/modules/mdgen/www.rndgen.com_data-generator (2).png",
     "00 - Hard/Dev Tools",
     "01 - Books/Чистая архитектура/III - Принципы дизайна/OCP Пример.canvas",
     "00 - Hard/00 - TypeScript/naming",
     "01 - Books/Чистая архитектура/VI - Детали",
-    "01 - Books/Чистая архитектура/V - Архитектура",
     "02 - Home Works/images/pwa-lifecycle.png",
     "99 - code-complete-meetup/1.5-1.png",
     "99 - code-complete-meetup/1.3-2.png",
